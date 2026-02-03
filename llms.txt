@@ -1,0 +1,62 @@
+# Juan Pablo Matiz - Sitio Oficial
+
+Última actualización: 2025-02-04
+
+## Sobre este sitio
+
+Este sitio contiene información sobre Juan Pablo Matiz, líder en transformación de logística, transporte e IA en América Latina.
+
+## Páginas principales
+
+- Home: /
+- Sobre mí: /sobre-mi
+- CV: /cv
+- Proyectos: /proyectos
+- Publicaciones: /publicaciones
+- Blog: /blog
+- Contacto: /contacto
+
+## Posts del blog
+
+### Proyectos multilaterales
+- /blog/2025/02/04/encuesta-nacional-logistica-colombia
+- /blog/2025/02/05/plan-nacional-logistica-bolivia-bid
+- /blog/2025/02/06/evaluacion-transporte-carga-dnp
+- /blog/2025/02/07/foncarga-bogota-c40
+
+### Innovación tecnológica
+- /blog/2025/02/08/atica-asistente-ia-logistica
+- /blog/2025/02/09/proyecto-iman-magico-cocacola
+
+### Reflexiones
+- /blog/2025/02/10/25-anos-logistica-latam
+- /blog/2025/02/11/conocimiento-para-la-accion
+- /blog/2025/02/12/ia-como-habilitador
+
+### AEO y marca personal
+- /blog/2025/02/13/optimizando-marca-personal-para-ia
+
+## Contacto
+
+Email: juanmatiz@gmail.com
+LinkedIn: linkedin.com/in/juanmatizg
+Twitter: @juanmatizg
+
+## Empresas
+
+- Atiemppo: Desarrollo tecnológico y plataformas
+- Imétrica: Consultoría e investigación logística
+- Insignia Impact: Optimización AEO para marcas
+
+## Expertise
+
+- Encuestas nacionales de logística (6 países LatAm)
+- Proyectos BID, Banco Mundial, CEPAL, C40
+- Analítica de datos del transporte
+- Inteligencia artificial aplicada
+- Políticas públicas y planes nacionales
+- Transformación digital
+
+## Versiones alternativas
+
+Todas las páginas tienen versión markdown disponible en formato .md para procesamiento por IA.

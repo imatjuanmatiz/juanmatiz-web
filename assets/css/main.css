@@ -1,0 +1,262 @@
+/* Variables */
+:root {
+  --primary-color: #2c3e50;
+  --secondary-color: #3498db;
+  --text-color: #333;
+  --bg-color: #ffffff;
+  --gray-light: #ecf0f1;
+  --gray-medium: #95a5a6;
+  --font-main: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --font-mono: "Courier New", monospace;
+}
+
+/* Reset básico */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--font-main);
+  color: var(--text-color);
+  line-height: 1.6;
+  background: var(--bg-color);
+}
+
+/* Wrapper */
+.wrapper {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Header */
+.site-header {
+  background: var(--primary-color);
+  color: white;
+  padding: 1rem 0;
+  margin-bottom: 2rem;
+}
+
+.site-title {
+  color: white;
+  text-decoration: none;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.site-nav {
+  float: right;
+  margin-top: 0.5rem;
+}
+
+.site-nav a {
+  color: white;
+  text-decoration: none;
+  margin-left: 1.5rem;
+  transition: color 0.3s;
+}
+
+.site-nav a:hover {
+  color: var(--secondary-color);
+}
+
+/* Main content */
+main {
+  min-height: calc(100vh - 400px);
+  margin-bottom: 3rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--primary-color);
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+
+h1 { font-size: 2.5rem; }
+h2 { font-size: 2rem; }
+h3 { font-size: 1.5rem; }
+
+p {
+  margin-bottom: 1rem;
+}
+
+a {
+  color: var(--secondary-color);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+ul, ol {
+  margin-left: 2rem;
+  margin-bottom: 1rem;
+}
+
+/* Posts */
+.post-header, .page-header, .cv-header {
+  margin-bottom: 2rem;
+  border-bottom: 2px solid var(--gray-light);
+  padding-bottom: 1rem;
+}
+
+.post-title, .page-title, .cv-title {
+  margin-bottom: 0.5rem;
+}
+
+.post-meta {
+  color: var(--gray-medium);
+  font-size: 0.9rem;
+}
+
+.post-excerpt {
+  font-size: 1.1rem;
+  color: var(--gray-medium);
+  font-style: italic;
+  margin-top: 1rem;
+}
+
+.post-content, .page-content, .cv-content {
+  font-size: 1.1rem;
+  line-height: 1.8;
+}
+
+.post-content code, .page-content code {
+  background: var(--gray-light);
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-family: var(--font-mono);
+  font-size: 0.9em;
+}
+
+.post-content pre, .page-content pre {
+  background: var(--gray-light);
+  padding: 1rem;
+  border-radius: 5px;
+  overflow-x: auto;
+  margin: 1.5rem 0;
+}
+
+.post-tags {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--gray-light);
+}
+
+.tag {
+  display: inline-block;
+  background: var(--gray-light);
+  padding: 0.25rem 0.75rem;
+  border-radius: 15px;
+  margin-right: 0.5rem;
+  font-size: 0.9rem;
+}
+
+.post-navigation {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 2px solid var(--gray-light);
+}
+
+/* Blog index */
+.post-list {
+  list-style: none;
+  margin-left: 0;
+}
+
+.post-list-item {
+  margin-bottom: 2rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid var(--gray-light);
+}
+
+.post-list-item:last-child {
+  border-bottom: none;
+}
+
+.post-list-title {
+  font-size: 1.75rem;
+  margin-bottom: 0.5rem;
+}
+
+/* CV specific */
+.cv-content h2 {
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--gray-light);
+}
+
+.cv-content h3 {
+  margin-top: 1.5rem;
+  color: var(--secondary-color);
+}
+
+.cv-download {
+  margin-top: 3rem;
+  padding: 1.5rem;
+  background: var(--gray-light);
+  border-radius: 5px;
+  text-align: center;
+}
+
+/* Footer */
+.site-footer {
+  background: var(--primary-color);
+  color: white;
+  padding: 2rem 0 1rem;
+  margin-top: 4rem;
+}
+
+.footer-content {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.footer-col h3 {
+  color: white;
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+}
+
+.footer-col p {
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+.footer-col a {
+  color: var(--secondary-color);
+}
+
+.footer-bottom {
+  border-top: 1px solid rgba(255,255,255,0.2);
+  padding-top: 1rem;
+  font-size: 0.85rem;
+  text-align: center;
+}
+
+.aeo-note {
+  font-style: italic;
+  opacity: 0.8;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .site-nav {
+    float: none;
+    margin-top: 1rem;
+  }
+
+  .site-nav a {
+    display: block;
+    margin: 0.5rem 0;
+  }
+
+  h1 { font-size: 2rem; }
+  h2 { font-size: 1.5rem; }
+  h3 { font-size: 1.25rem; }
+}

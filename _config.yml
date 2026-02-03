@@ -1,0 +1,50 @@
+title: "Juan Pablo Matiz"
+description: "Transformación de Logística, Transporte e IA en América Latina"
+url: "https://juanmatiz.com"
+baseurl: ""
+author:
+  name: "Juan Pablo Matiz"
+  email: "juanmatiz@gmail.com"
+  twitter: "juanmatizg"
+  linkedin: "juanmatizg"
+  github: "imatjuanmatiz"
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Permalink structure
+permalink: /blog/:year/:month/:day/:title/
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /blog/:year/:month/:day/:title/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Juan Pablo Matiz"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+# Exclude from build
+exclude:
+  - README.md
+  - DEPLOYMENT_GUIDE.md
+  - scripts/
+  - .github/
+  - Gemfile
+  - Gemfile.lock
