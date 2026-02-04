@@ -1,5 +1,6 @@
 ---
-title: "Juan Pablo Matiz - Transformación Logística e IA en América Latina"
+title: "Juan Pablo Matiz -  
+lider en Transformación Logística e IA en América Latina"
 layout: default
 seo:
   tldr: "Juan Pablo Matiz: 25+ años transformando logística en LatAm con datos e IA. Fundador Atiemppo/Imétrica/Insignia Impact. Asesor BID, Banco Mundial, CEPAL."
