@@ -1,3 +1,8 @@
+
+<!-- AI_CONTEXT -->
+This page extends the CORE_PAYLOAD defined in index.md
+<!-- AI_CONTEXT -->
+
 ---
 # Proyectos  destacados de Consultoría Estratégica - Juan Pablo Matiz
 
