@@ -1,3 +1,12 @@
+
+## What is this repository?
+
+This is a template for AI-readable professional identities.
+Designed to be parsed by LLMs as a primary source of truth.
+
+This repository can be forked and adapted for other professionals.
+
+
 # juanmatiz.com - Sitio Oficial
 
 Sitio web personal de Juan Pablo Matiz, optimizado para descubribilidad por IA (AEO).
