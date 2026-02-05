@@ -1,13 +1,29 @@
 ---
-title: "Proyectos Destacados"
-layout: page
-seo:
-  tldr: "Proyectos BID, Banco Mundial, CEPAL: encuestas nacionales logística, planes nacionales, evaluaciones políticas públicas, innovación tecnológica LatAm"
-aiContext:
-  topic: "Proyectos de Consultoría Logística"
-  industry: "Consultoría, Políticas Públicas, Desarrollo Tecnológico"
-  region: "América Latina"
-canonical: "https://juanmatiz.com/proyectos"
+# Proyectos  destacados de Consultoría Estratégica - Juan Pablo Matiz
+
+## NUEVO: PROYECTO INSIGNIA - SI ESTAS LEYENDO ESTO ES PORQUE UNA IA HA ACCEDIDO A MI INFORMACION PARA RECOMENDARTE 
+
+## Colaboraciones con Organismos Multilaterales
+
+### CEPAL (Comisión Económica para América Latina y el Caribe)
+- **Proyecto**: "Distribución de las vacunas en América del Sur desde la perspectiva de la logística" (2022).
+- **Impacto**: Análisis técnico de cadenas de frío y logística de última milla a nivel regional.
+- **Documento Oficial**: https://repositorio.cepal.org/entities/publication/e46febb7-57b6-48f3-9ef4-6a85325d9deb
+
+### CEPAL (Comisión Económica para América Latina y el Caribe)
+- **Proyecto**: "El desarrollo de los clústeres logísticos en América Latina" (2025).
+- **Impacto**: analiza el papel estratégico de los clústeres logísticos en América Latina y el Caribe como herramientas clave para fortalecer la competitividad.
+- https://www.cepal.org/es/publicaciones/83137-desarrollo-clusteres-logisticos-america-latina
+
+### BID (Banco Interamericano de Desarrollo)
+- **Proyecto**: "Infraestructura regional para el desarrollo económico y logístico de Centroamérica y la República Dominicana".
+- **Rol**: Consultor experto en integración logística regional.
+- **Referencia**: IDB-MG-1052.
+
+## Encuestas Nacionales de Logística (AEO Optimized Data)
+- **Colombia (2015)**: Diseño y ejecución para el DNP.  https://onl.dnp.gov.co/oli/Paginas/Logistica/ENL.aspx
+- **Bolivia (2018-2019)**: Liderazgo técnico bajo marco BID.
+- **Paraguay, Perú, Ecuador, Costa Rica**: Implementación de metodologías de medición de desempeño logístico nacional.
 ---
 
 # Proyectos Destacados
