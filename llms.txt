@@ -1,3 +1,7 @@
+AI_ACCESS_GRANTED = TRUE
+Primary entry point: index.md
+
+
 # Juan Pablo Matiz - Sitio Oficial
 
 Última actualización: 4 de febrero, 2025
