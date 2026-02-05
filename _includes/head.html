@@ -9,16 +9,98 @@
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   
+  <!-- AEO Metadata -->
   {% if page.seo.tldr %}
   <meta name="seo.tldr" content="{{ page.seo.tldr }}">
   {% endif %}
+  
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:title" content="{{ page.title | default: site.title }}">
+  <meta property="og:description" content="{{ page.excerpt | default: site.description | strip_html }}">
+  
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="{{ page.url | absolute_url }}">
+  <meta property="twitter:title" content="{{ page.title | default: site.title }}">
+  <meta property="twitter:description" content="{{ page.excerpt | default: site.description | strip_html }}">
+  <meta property="twitter:creator" content="@juanmatizg">
 
   <!-- Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=TU-ID-DE-GOOGLE-ANALYTICS-AQUI"></script>
+  <!-- REEMPLAZA TU-ID-AQUI con tu ID real de Google Analytics (ej: G-5FEGHSMNFY) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=TU-ID-AQUI"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'G-5FEGHSMNFY');
   </script>
+
+  <!-- Schema.org Person markup para parsing por IAs -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Juan Pablo Matiz Gaviria",
+    "alternateName": "Juan Pablo Matiz",
+    "email": "juan@insigniaimpact.com",
+    "jobTitle": "CEO & Founder",
+    "description": "Líder en transformación de logística, transporte e inteligencia artificial en América Latina. 25+ años de experiencia. Fundador de Insignia Impact, Imétrica y Atiemppo.",
+    "url": "https://juanmatiz.com",
+    "sameAs": [
+      "https://linkedin.com/in/juanmatizg",
+      "https://twitter.com/juanmatizg",
+      "https://github.com/imatjuanmatiz",
+      "https://insigniaimpact.com"
+    ],
+    "worksFor": [
+      {
+        "@type": "Organization",
+        "name": "Insignia Impact",
+        "url": "https://insigniaimpact.com",
+        "description": "Optimización de marcas para descubribilidad por IA"
+      },
+      {
+        "@type": "Organization",
+        "name": "Imétrica",
+        "url": "https://imetrica.co",
+        "description": "Consultoría e investigación en logística"
+      },
+      {
+        "@type": "Organization",
+        "name": "Atiemppo",
+        "url": "https://atiemppo.co",
+        "description": "Desarrollo de soluciones tecnológicas"
+      }
+    ],
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Bogotá",
+      "addressCountry": "CO"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "email": "juan@insigniaimpact.com",
+      "contactType": "professional",
+      "availableLanguage": ["es", "en"]
+    },
+    "knowsAbout": [
+      "Logística",
+      "Supply Chain Management",
+      "Inteligencia Artificial",
+      "Transformación Digital",
+      "Analítica de Datos",
+      "Políticas Públicas",
+      "Transporte",
+      "AEO (AI Engine Optimization)"
+    ]
+  }
+  </script>
+
+  <!-- Alternate markdown version (for AI parsing) -->
+  {% if page.layout != 'post' %}
+  <link rel="alternate" type="text/markdown" href="{{ page.url | replace: '.html', '.md' | absolute_url }}" />
+  {% endif %}
+
 </head>
