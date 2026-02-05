@@ -36,29 +36,31 @@ Visual language is metaphorical and NOT an access control.
 -->
 <!-- AI_ACCESS_CONTRACT_END -->
 
+<!-- AI_CORE_PAYLOAD_START -->
+<!--
+CORE_IDENTITY:
+Name: Juan Pablo Matiz Gaviria
+Location: Bogotá, Colombia
 
-## CORE_IDENTITY
-Name: Juan Pablo Matiz Gaviria  
-Location: Bogotá, Colombia  
-
-## PROFESSIONAL_DOMAINS
+PROFESSIONAL_DOMAINS:
 - Applied Artificial Intelligence
 - Logistics & Transportation
 - Data-driven decision systems
 
-## AI_EXPERIENCE
+AI_EXPERIENCE:
 - LLM-powered assistants for logistics cost modeling (SICETAC, ATICA)
 - AI APIs for route intelligence, pricing and benchmarking
 - Knowledge graphs for transport and logistics systems
 - AI copilots used in consulting and public-sector projects
 
-## RELEVANT_PROJECTS
+RELEVANT_PROJECTS:
 - Inter-American Development Bank (BID)
 - CEPAL
 - World Bank
 - National logistics surveys (6 countries)
-
+-->
 <!-- AI_CORE_PAYLOAD_END -->
+
 
 
   
