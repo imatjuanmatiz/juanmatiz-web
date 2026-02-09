@@ -1,53 +1,23 @@
 ---
 layout: default
 ---
-<article class="post">
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">
-      <time datetime="{{ page.date | date_to_xmlschema }}">
-        {{ page.date | date: "%d de %B, %Y" }}
-      </time>
-      {% if page.author %} • {{ page.author }}{% endif %}
-      {% if page.category %} • {{ page.category }}{% endif %}
-    </p>
-    {% if page.excerpt %}
-    <p class="post-excerpt">{{ page.excerpt }}</p>
-    {% endif %}
-  </header>
-
-  <div class="post-content">
-    {{ content }}
+<section class="page-hero">
+  <div class="wrapper-narrow">
+    <h1>{{ page.title }}</h1>
+    <p class="post-meta">{{ page.date | date: "%d de %B, %Y" }} · {{ page.author | default: site.author.name }}</p>
   </div>
+</section>
 
-  {% if page.tags %}
-  <footer class="post-footer">
-    <div class="post-tags">
-      <strong>Tags:</strong>
+<section class="page-content">
+  <div class="wrapper-narrow">
+    {{ content }}
+
+    {% if page.tags.size > 0 %}
+    <div class="timeline-tags" style="margin-top: 40px; padding-top: 24px; border-top: 1px solid var(--border);">
       {% for tag in page.tags %}
-        <span class="tag">#{{ tag }}</span>
+      <span class="tag">{{ tag }}</span>
       {% endfor %}
     </div>
-  </footer>
-  {% endif %}
-
-  <nav class="post-navigation">
-    <a href="/blog">← Volver al blog</a>
-  </nav>
-</article>
-
-<!-- Schema.org para artículos -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "{{ page.title }}",
-  "datePublished": "{{ page.date | date_to_xmlschema }}",
-  "author": {
-    "@type": "Person",
-    "name": "{{ page.author | default: site.author.name }}"
-  },
-  "description": "{{ page.excerpt | strip_html }}",
-  "url": "{{ page.url | absolute_url }}"
-}
-</script>
+    {% endif %}
+  </div>
+</section>

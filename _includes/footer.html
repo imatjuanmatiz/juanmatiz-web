@@ -1,31 +1,54 @@
 <footer class="site-footer">
   <div class="wrapper">
-    <div class="footer-content">
-      <div class="footer-col">
-        <h3>Juan Pablo Matiz</h3>
-        <p>Transformación de Logística, Transporte e IA en América Latina</p>
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <a href="/" class="site-brand">
+          <div class="brand-icon">JP</div>
+          <span class="brand-text" style="color: white;">Juan Pablo Matiz</span>
+        </a>
+        <p>Economista y consultor senior con más de 25 años transformando la logística y el transporte en América Latina.</p>
       </div>
       <div class="footer-col">
-        <h3>Contacto</h3>
-        <p>
-          Email: <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a><br>
-          <a href="https://linkedin.com/in/{{ site.author.linkedin }}" target="_blank">LinkedIn</a> •
-          <a href="https://twitter.com/{{ site.author.twitter }}" target="_blank">Twitter</a> •
-          <a href="https://github.com/{{ site.author.github }}" target="_blank">GitHub</a>
-        </p>
+        <h4>Navegación</h4>
+        <ul>
+          <li><a href="/sobre-mi">Sobre mí</a></li>
+          <li><a href="/cv">CV</a></li>
+          <li><a href="/proyectos">Proyectos</a></li>
+          <li><a href="/publicaciones">Publicaciones</a></li>
+        </ul>
       </div>
       <div class="footer-col">
-        <h3>Empresas</h3>
-        <p>
-          <a href="https://insigniaimpact.com" target="_blank">Insignia Impact</a> - Optimización AEO<br>
-          Imétrica - Consultoría logística<br>
-          Atiemppo - Desarrollo tecnológico
-        </p>
+        <h4>Empresas</h4>
+        <ul>
+          <li><a href="https://atiemppo.co" target="_blank">Atiemppo</a></li>
+          <li>Imétrica</li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Contacto</h4>
+        <ul>
+          <li><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+          <li><a href="https://linkedin.com/in/{{ site.author.linkedin }}" target="_blank">LinkedIn</a></li>
+          <li><a href="https://twitter.com/{{ site.author.twitter }}" target="_blank">Twitter</a></li>
+        </ul>
       </div>
     </div>
     <div class="footer-bottom">
-      <p>© {{ 'now' | date: "%Y" }} Juan Pablo Matiz. Bogotá, Colombia.</p>
-      <p class="aeo-note">Este sitio fue optimizado para descubribilidad por IA usando metodología <a href="https://insigniaimpact.com" target="_blank">Insignia Impact</a>.</p>
+      <p>&copy; {{ 'now' | date: "%Y" }} Juan Pablo Matiz. Bogotá, Colombia.</p>
+      <div class="footer-social">
+        <a href="https://linkedin.com/in/{{ site.author.linkedin }}" target="_blank" aria-label="LinkedIn">
+          <i data-lucide="linkedin"></i>
+        </a>
+        <a href="https://twitter.com/{{ site.author.twitter }}" target="_blank" aria-label="Twitter">
+          <i data-lucide="twitter"></i>
+        </a>
+        <a href="https://github.com/{{ site.author.github }}" target="_blank" aria-label="GitHub">
+          <i data-lucide="github"></i>
+        </a>
+        <a href="mailto:{{ site.author.email }}" aria-label="Email">
+          <i data-lucide="mail"></i>
+        </a>
+      </div>
     </div>
   </div>
 </footer>

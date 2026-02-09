@@ -1,4 +1,3 @@
-<!-- Alternate markdown version for AI processing -->
-<link rel="alternate" type="text/markdown" href="{{ page.url | replace: '.html', '.md' | absolute_url }}" />
-<meta name="ai-content-available" content="markdown" />
-<meta name="ai-markdown-url" content="{{ page.url | replace: '.html', '.md' | absolute_url }}" />
+{% if page.path contains '.md' %}
+<link rel="alternate" type="text/markdown" href="{{ page.path | relative_url }}">
+{% endif %}
