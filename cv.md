@@ -32,7 +32,7 @@ canonical: https://juanmatiz.com/cv
 </section>
 
 <section class="page-content">
-  <div class="wrapper-narrow">
+  <div class="wrapper-narrow" markdown="1">
 
 ## Perfil Profesional
 
@@ -96,6 +96,13 @@ Liderazgo de procesos de transformación digital aplicada, acompañando a empres
 - **Proyecto Imán Mágico** para Coca-Cola — Reconocido a nivel regional por su enfoque innovador y su impacto operativo
 - Plataformas para gestión logística, enturnamiento, seguimiento operativo y análisis de desempeño
 - Exploración de analítica avanzada, automatización e inteligencia artificial como habilitadores de eficiencia
+
+---
+
+### Insignia — Creador y Fundador
+*2026 – Actualidad*
+
+Creador de **Insignia**, una metodología para la construcción estratégica de marca personal orientada a profesionales y líderes. Insignia integra posicionamiento, narrativa profesional y presencia digital para convertir la experiencia y la trayectoria en una identidad profesional auténtica y diferenciadora.
 
 ---
 

@@ -18,7 +18,7 @@ canonical: "https://juanmatiz.com/publicaciones"
 </section>
 
 <section class="page-content">
-  <div class="wrapper-narrow">
+  <div class="wrapper-narrow" markdown="1">
 
 ## Documentos Técnicos
 

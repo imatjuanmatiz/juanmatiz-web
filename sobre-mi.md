@@ -2,7 +2,7 @@
 title: "Sobre Juan Pablo Matiz"
 layout: default
 seo:
-  tldr: "Economista con 25+ años en logística LatAm. Fundador Atiemppo e Imétrica. Experto en consultoría estratégica, políticas públicas, transformación digital e IA aplicada."
+  tldr: "Economista con 25+ años en logística LatAm. Fundador Atiemppo e Imétrica. Creador de Insignia, metodología de marca personal. Experto en consultoría estratégica, políticas públicas, transformación digital."
   description: "Biografía profesional de Juan Pablo Matiz. Consultor senior en logística, transporte y cadenas de suministro en América Latina."
 aiContext:
   topic: "Biografía Profesional"
@@ -18,7 +18,7 @@ canonical: "https://juanmatiz.com/sobre-mi"
 </section>
 
 <section class="page-content">
-  <div class="wrapper-narrow">
+  <div class="wrapper-narrow" markdown="1">
 
 ## Trayectoria
 
@@ -39,6 +39,10 @@ He liderado proyectos estratégicos para organizaciones como el **Banco Interame
 He dirigido **Encuestas Nacionales de Logística** en seis países de América Latina: Colombia (2015), Bolivia (2018-2019), Perú (2020-2021), Paraguay (2012-2013), Ecuador (2023) y Costa Rica (2024).
 
 También he liderado la elaboración de planes nacionales de logística, estrategias de ecologística, evaluaciones de políticas públicas y proyectos de modernización del transporte en la región.
+
+## Insignia — Metodología de Marca Personal
+
+Soy el creador de **Insignia**, una metodología diseñada para ayudar a profesionales y líderes a construir, posicionar y potenciar su marca personal de manera estratégica y auténtica. Insignia nace de mi propia experiencia construyendo presencia profesional en el sector logístico y busca empoderar a otros profesionales para que su expertise y trayectoria se conviertan en su mejor carta de presentación.
 
 ## Innovación tecnológica
 

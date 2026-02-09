@@ -77,8 +77,8 @@ canonical: "https://juanmatiz.com/"
         <ul class="org-list">
           <li><i data-lucide="building-2"></i> Imétrica</li>
           <li><i data-lucide="rocket"></i> Atiemppo</li>
+          <li><i data-lucide="sparkles"></i> Insignia</li>
           <li><i data-lucide="graduation-cap"></i> U. del Rosario</li>
-          <li><i data-lucide="book-open"></i> ICIL España</li>
         </ul>
         <div class="expertise-grid">
           <div class="expertise-item"><i data-lucide="truck"></i> Logística</div>
@@ -118,6 +118,11 @@ canonical: "https://juanmatiz.com/"
         <div class="card-icon green"><i data-lucide="leaf"></i></div>
         <h3>Sostenibilidad y Descarbonización</h3>
         <p>Apoyo a programas de logística urbana sostenible, modernización de flotas y estrategias de ecologística en colaboración con C40 e ICLEI.</p>
+      </div>
+      <div class="card animate-on-scroll">
+        <div class="card-icon" style="background: linear-gradient(135deg, #7c3aed, #a78bfa);"><i data-lucide="sparkles"></i></div>
+        <h3>Insignia — Marca Personal</h3>
+        <p>Metodología propia para ayudar a profesionales y líderes a construir, posicionar y potenciar su marca personal de manera estratégica y auténtica.</p>
       </div>
     </div>
   </div>

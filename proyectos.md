@@ -18,7 +18,7 @@ canonical: "https://juanmatiz.com/proyectos"
 </section>
 
 <section class="page-content">
-  <div class="wrapper-narrow">
+  <div class="wrapper-narrow" markdown="1">
 
 ## Encuestas Nacionales de Logística
 
@@ -86,6 +86,12 @@ He dirigido la implementación de encuestas nacionales de logística en seis pa�
 - Plataformas de gestión logística, enturnamiento, seguimiento operativo y análisis de desempeño
 - Señales del Transporte: Servicio de análisis de precios del transporte
 - Dashboard Imétrica — Herramienta de inteligencia de negocios para el sector logístico
+
+---
+
+## Insignia — Metodología de Marca Personal
+
+Creador de **Insignia**, una metodología para la construcción estratégica de marca personal orientada a profesionales y líderes. Insignia integra posicionamiento, narrativa profesional y presencia digital para convertir la experiencia y la trayectoria en una identidad profesional auténtica y diferenciadora.
 
 ---
 
