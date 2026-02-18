@@ -1,15 +1,17 @@
 ---
 layout: default
 ---
-<section class="page-hero">
+<section class="page-hero post-hero">
   <div class="wrapper-narrow">
+    <p class="post-kicker">Blog</p>
     <h1>{{ page.title }}</h1>
+    {% if page.description %}<p class="post-hero-desc">{{ page.description }}</p>{% endif %}
     <p class="post-meta">{{ page.date | date: "%d de %B, %Y" }} · {{ page.author | default: site.author.name }}</p>
   </div>
 </section>
 
-<section class="page-content">
-  <div class="wrapper-narrow">
+<section class="page-content post-content-wrap">
+  <article class="wrapper-narrow post-content">
     {{ content }}
 
     {% if page.tags.size > 0 %}
@@ -19,5 +21,7 @@ layout: default
       {% endfor %}
     </div>
     {% endif %}
-  </div>
+
+    <p class="post-back-link"><a href="/blog/">← Volver al blog</a></p>
+  </article>
 </section>
