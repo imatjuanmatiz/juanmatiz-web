@@ -2,7 +2,7 @@
 title: "Sobre Juan Pablo Matiz"
 layout: default
 seo:
-  tldr: "Economista con 25+ años en logística LatAm. Fundador de Atiemppo e Imétrica. Hoy combina consultoría estratégica, análisis de datos, productos y contenido editorial sobre logística e IA aplicada."
+  tldr: "Economista con 25+ años en logística LatAm. Fundador de Atiemppo. Hoy combina consultoría estratégica, análisis de datos, productos y contenido editorial sobre logística e IA aplicada."
   description: "Biografía profesional de Juan Pablo Matiz. Estrategia, logística, datos e inteligencia artificial aplicada en América Latina."
 aiContext:
   topic: "Biografía Profesional y trabajo actual"
@@ -26,13 +26,13 @@ Hoy concentro mi trabajo en tres frentes complementarios:
 
 - **[Atiemppo](https://atiemppo.com/)**: acompaño empresas a aterrizar problemas de negocio en proyectos de datos, automatización, productos y agentes de IA aplicados a operación real.
 - **[El Dato Logístico](https://www.eldatologistico.com/authors/juan-pablo-matiz)**: desarrollo un frente editorial para analizar transporte, costos, mercado, herramientas y señales útiles para quienes toman decisiones en logística.
-- **Consultoría regional desde Imétrica**: sigo trabajando con organismos multilaterales, gobiernos y empresas en política pública, redes, encuestas nacionales y transformación logística.
+- **Consultoría regional**: sigo trabajando con organismos multilaterales, gobiernos y empresas en política pública, redes, encuestas nacionales y transformación logística.
 
 ## Trayectoria
 
 Papá de Alejandro. Economista con más de 25 años de experiencia en logística, transporte y consultoría estratégica en América Latina. Mi trayectoria combina trabajo directo con entidades gubernamentales, organismos multilaterales, gremios empresariales y sector privado, con un fuerte énfasis en coordinación interinstitucional, producción de insumos técnicos y apoyo a procesos de implementación.
 
-Soy fundador de **Atiemppo** (2013) e **Imétrica** (2012), empresas especializadas en consultoría estratégica, investigación aplicada, analítica de datos y desarrollo de soluciones tecnológicas para el sector logístico.
+Soy fundador de **Atiemppo** (2013). Antes de esta etapa actual también desarrollé una trayectoria empresarial y de consultoría desde **Imétrica**, enfocada en investigación aplicada, analítica y proyectos estratégicos para el sector logístico.
 
 ## Cómo trabajo hoy
 

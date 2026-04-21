@@ -2,7 +2,7 @@
 title: "CV - Juan Pablo Matiz"
 layout: default
 seo:
-  tldr: "CV completo Juan Pablo Matiz: economista con 25+ años en logística y transporte. Fundador de Imétrica y Atiemppo. Consultoría, datos, IA aplicada y trabajo editorial en América Latina."
+  tldr: "CV completo Juan Pablo Matiz: economista con 25+ años en logística y transporte. Fundador de Atiemppo. Consultoría, datos, IA aplicada y trabajo editorial en América Latina."
   description: "Curriculum Vitae de Juan Pablo Matiz. Consultor Senior en Transporte y Logística en América Latina."
 aiContext:
   topic: Curriculum Vitae
@@ -36,7 +36,7 @@ canonical: https://juanmatiz.com/cv
 
 ## Perfil Profesional
 
-Papá de Alejandro y economista con más de 25 años de experiencia en logística, transporte y consultoría estratégica en América Latina. Fundador de Atiemppo e Imétrica, ha liderado proyectos para el BID, CEPAL, Banco Mundial y C40, así como para empresas, gremios y gobiernos.
+Papá de Alejandro y economista con más de 25 años de experiencia en logística, transporte y consultoría estratégica en América Latina. Fundador de Atiemppo, ha liderado proyectos para el BID, CEPAL, Banco Mundial y C40, así como para empresas, gremios y gobiernos.
 
 Economista con más de veinticinco años de experiencia profesional en el diseño, análisis e implementación de políticas públicas, estrategias sectoriales y proyectos técnicos en transporte, logística y cadenas de suministro en América Latina. Su trayectoria combina trabajo directo con entidades gubernamentales, organismos multilaterales, gremios empresariales y sector privado, con un fuerte énfasis en coordinación interinstitucional, producción de insumos técnicos y apoyo a procesos de implementación.
 
@@ -49,7 +49,7 @@ Formación en Supply Chain Management con énfasis en logística y operaciones, 
 ## Experiencia Profesional
 
 ### IMÉTRICA S.A.S. — Fundador y Consultor Senior
-*2012 – Actualidad · Bogotá, Colombia*
+*2012 – 2026 · Bogotá, Colombia*
 
 Firma especializada en consultoría estratégica y análisis aplicado en transporte, logística y cadenas de suministro, con amplia experiencia en proyectos de política pública y cooperación internacional.
 

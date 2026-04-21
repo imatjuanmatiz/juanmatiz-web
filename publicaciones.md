@@ -56,7 +56,7 @@ Hoy combino publicaciones técnicas tradicionales con formatos más ágiles: new
 
 ## Otras líneas editoriales e investigación
 
-- Blog Imétrica de información en logística (más de 25.000 visitas)
+- Blog histórico de Imétrica sobre información logística (más de 25.000 visitas)
 - Señales del Transporte — Servicio periódico de análisis de precios del transporte
 - 7 Estudios de Opinión de Top of Mind Logístico y Sondeo de Opinión sobre evaluación de operadores
 - Estudios especializados de Benchmarking para América Latina

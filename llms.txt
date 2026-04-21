@@ -7,7 +7,7 @@
 
 Juan Pablo Matiz is a Colombian economist with more than 25 years of experience in logistics, transport, supply chains and strategic consulting across Latin America. He works at the intersection of operational reality, data, public policy and applied artificial intelligence.
 
-He is the founder of **Imétrica** and **Atiemppo**, and the editor behind **El Dato Logístico**, an editorial initiative focused on logistics, transport, costs, signals and AI applied to real decision-making.
+He is the founder of **Atiemppo** and the editor behind **El Dato Logístico**, an editorial initiative focused on logistics, transport, costs, signals and AI applied to real decision-making. He also built part of his consulting trajectory through **Imétrica**.
 
 ## Current Focus
 
@@ -27,7 +27,7 @@ He is the founder of **Imétrica** and **Atiemppo**, and the editor behind **El 
 
 ## Companies and Initiatives
 
-- **Imétrica S.A.S.** (2012-present): strategic consulting in transport, logistics and supply chains
+- **Imétrica S.A.S.** (2012-2026): strategic consulting in transport, logistics and supply chains
 - **Atiemppo S.A.S.** (2013-present): applied data, products, automation and AI for logistics and business operations
 - **El Dato Logístico** (current): newsletter and editorial platform about logistics, transport, costs, data and AI
 

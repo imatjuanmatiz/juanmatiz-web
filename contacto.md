@@ -95,8 +95,6 @@ canonical: "https://juanmatiz.com/contacto"
 
 ## Ecosistema actual
 
-**Imétrica S.A.S.** — Consultoría estratégica en transporte, logística y cadenas de suministro
-
 **Atiemppo S.A.S.** — Estrategia, productos de datos e IA aplicada · [atiemppo.com](https://atiemppo.com)
 
 **El Dato Logístico** — Newsletter y archivo editorial sobre logística, transporte, datos e IA · [eldatologistico.com](https://www.eldatologistico.com/authors/juan-pablo-matiz)

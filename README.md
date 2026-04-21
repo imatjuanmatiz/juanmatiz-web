@@ -59,6 +59,44 @@ Ver `DEPLOYMENT_GUIDE.md` para instrucciones paso a paso.
 - Seguir estructura de frontmatter establecida
 - Ejecutar `scripts/generate_md.sh` después de build
 
+## Proceso GEO / SEO
+
+Cada cambio relevante del sitio debería pasar por este orden:
+
+1. **Posicionamiento y jerarquía**
+   - Confirmar qué frentes están activos hoy
+   - Verificar que `home`, `proyectos`, `publicaciones`, `blog` y `contacto` cuenten la misma historia
+   - Quitar marcas, iniciativas o enlaces que ya no deban tener protagonismo
+
+2. **Crawlabilidad**
+   - Revisar `robots.txt`
+   - Revisar `llms.txt`
+   - Confirmar que `jekyll-sitemap` siga activo en `_config.yml`
+   - Verificar canónicos en las páginas clave
+
+3. **Metadata compartida**
+   - Mantener `title`, `description` y `seo.tldr` al día en cada página principal
+   - Usar el layout compartido para Open Graph, Twitter y canonical
+   - Evitar páginas duplicadas para una misma ruta
+
+4. **Enlazado interno**
+   - Desde `index.md`, enlazar siempre a proyectos, publicaciones, contacto y los hubs externos activos
+   - Mantener footer y navegación alineados con la estrategia actual
+
+5. **Chequeo final**
+   - Correr `bundle install`
+   - Correr `bundle exec jekyll build` o `bundle exec jekyll serve`
+   - Revisar `/`, `/proyectos/`, `/publicaciones/`, `/blog/` y `/contacto/`
+
+## Checklist rápido para cambios de contenido
+
+- ¿La home explica claramente qué hace Juan hoy?
+- ¿Atiemppo y El Dato Logístico aparecen donde deben aparecer?
+- ¿Hay alguna marca antigua compitiendo con el foco actual?
+- ¿`llms.txt` y las páginas visibles dicen lo mismo?
+- ¿`blog/` apunta a la estrategia editorial real?
+- ¿Existe `robots.txt` y el sitemap sigue declarado?
+
 ## Contacto
 
 **Juan Pablo Matiz**

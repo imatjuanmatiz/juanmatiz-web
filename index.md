@@ -2,7 +2,7 @@
 title: "Juan Pablo Matiz - Estrategia, Logística e IA Aplicada"
 layout: default
 seo:
-  tldr: "Juan Pablo Matiz: economista con 25+ años en logística y transporte en América Latina. Hoy combina consultoría estratégica, datos e IA aplicada desde Atiemppo, Imétrica y El Dato Logístico."
+  tldr: "Juan Pablo Matiz: economista con 25+ años en logística y transporte en América Latina. Hoy combina consultoría estratégica, datos e IA aplicada desde Atiemppo y El Dato Logístico."
   description: "Sitio profesional de Juan Pablo Matiz. Estrategia, logística, datos e inteligencia artificial aplicada para empresas, gobiernos y organismos multilaterales."
 aiContext:
   topic: "Professional Profile, Logistics, Data and Applied AI"
@@ -30,7 +30,7 @@ canonical: "https://juanmatiz.com/"
       <h1>Juan Pablo Matiz</h1>
       <p class="hero-role">Economista | Estrategia, Logística e IA Aplicada</p>
       <p class="hero-desc">
-        Trabajo en la intersección entre logística, datos e inteligencia artificial. Lidero Atiemppo, sigo acompañando proyectos regionales desde Imétrica y hoy también construyo El Dato Logístico como hub editorial para analizar transporte, costos, operación e IA aplicada.
+        Trabajo en la intersección entre logística, datos e inteligencia artificial. Lidero Atiemppo, acompaño proyectos regionales de consultoría y hoy también construyo El Dato Logístico como hub editorial para analizar transporte, costos, operación e IA aplicada.
       </p>
       <div class="hero-ctas">
         <a href="/proyectos" class="btn btn-primary">
@@ -75,10 +75,9 @@ canonical: "https://juanmatiz.com/"
           </div>
         </div>
         <ul class="org-list">
-          <li><i data-lucide="building-2"></i> Imétrica</li>
           <li><i data-lucide="rocket"></i> Atiemppo</li>
           <li><i data-lucide="newspaper"></i> El Dato Logístico</li>
-          <li><i data-lucide="graduation-cap"></i> U. del Rosario</li>
+          <li><i data-lucide="graduation-cap"></i> U. CESA</li>
         </ul>
         <div class="expertise-grid">
           <div class="expertise-item"><i data-lucide="truck"></i> Logística</div>
