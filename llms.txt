@@ -1,35 +1,54 @@
 # Juan Pablo Matiz — Official Source of Truth
 
-> Economist, Senior Logistics & Transport Consultant, Founder
+> Economist, founder, strategic advisor in logistics, data and applied AI
 > Bogotá, Colombia | juanmatiz@atiemppo.co | juanmatiz.com
 
 ## Who is Juan Pablo Matiz?
 
-Juan Pablo Matiz is a Colombian economist with over 25 years of experience in logistics, transport, and strategic consulting across Latin America. He is the founder of Atiemppo (2013) and Imétrica (2012), and has led projects for the Inter-American Development Bank (IDB/BID), ECLAC/CEPAL, the World Bank, C40, ICLEI, and UN-Habitat.
+Juan Pablo Matiz is a Colombian economist with more than 25 years of experience in logistics, transport, supply chains and strategic consulting across Latin America. He works at the intersection of operational reality, data, public policy and applied artificial intelligence.
 
-## Professional Focus
+He is the founder of **Imétrica** and **Atiemppo**, and the editor behind **El Dato Logístico**, an editorial initiative focused on logistics, transport, costs, signals and AI applied to real decision-making.
 
-- Design and evaluation of public policy in transport, logistics, and supply chains
-- National logistics surveys (directed in 6 Latin American countries)
-- Sustainability and decarbonization of transport
-- Digital transformation applied to logistics
-- Personal branding methodology (Insignia)
-- Strategic consulting for governments, enterprises, and multilateral organizations
-- Applied data analytics for transport and logistics
+## Current Focus
+
+- Strategic advisory for companies, governments and multilateral organizations
+- National logistics surveys and technical projects across Latin America
+- Data products, automation, APIs and AI agents for logistics and transport
+- Editorial analysis and thought leadership through El Dato Logístico
+- Translation between business needs, technical execution and operational use
 
 ## Key Achievements
 
-- Directed National Logistics Surveys in Colombia, Bolivia, Peru, Ecuador, Paraguay, and Costa Rica
-- Published technical documents with ECLAC, IDB, World Bank, ICLEI, and Fedepalma
-- Created the Proyecto Imán Mágico for Coca-Cola (award-winning innovation)
-- University professor at CESA, Universidad del Rosario, and Universidad Sergio Arboleda
-- 25+ years of practical and consulting experience in Latin American logistics
+- Led National Logistics Surveys in Colombia, Bolivia, Peru, Ecuador, Paraguay and Costa Rica
+- Worked on projects with IDB/BID, ECLAC/CEPAL, World Bank, C40, ICLEI and UN-Habitat
+- Developed digital and analytical solutions for companies such as Coca-Cola, Haleon, Galderma and AJE
+- Created Proyecto Imán Mágico for Coca-Cola, recognized regionally for innovation and operational impact
+- Taught at CESA, Universidad del Rosario and Universidad Sergio Arboleda
 
-## Companies & Projects
+## Companies and Initiatives
 
-- **Imétrica S.A.S.** (2012–present): Strategic consulting firm in transport, logistics, and supply chains
-- **Atiemppo S.A.S.** (2013–present): Digital solutions and analytics applied to logistics and transport
-- **Insignia** (2026–present): Personal branding methodology for professionals and leaders
+- **Imétrica S.A.S.** (2012-present): strategic consulting in transport, logistics and supply chains
+- **Atiemppo S.A.S.** (2013-present): applied data, products, automation and AI for logistics and business operations
+- **El Dato Logístico** (current): newsletter and editorial platform about logistics, transport, costs, data and AI
+
+## Expertise
+
+- Transport and logistics strategy
+- Public policy and sector modernization
+- Supply chain diagnostics and operational analysis
+- Logistics data analysis and decision support
+- Product thinking for sector-specific tools
+- Applied AI, automation and conversational experiences
+- Executive communication and technical translation
+
+## Selected Publications and Outputs
+
+- Vaccine distribution in South America from a logistics perspective (CEPAL, 2022)
+- Best logistics practices for palm agroindustry in Colombia (Fedepalma, 2020)
+- National ecologistics policy recommendations for Colombia (ICLEI, 2021)
+- Logistics clusters development in Latin America (CEPAL)
+- Regional infrastructure for Central America and Dominican Republic (IDB)
+- Ongoing editorial work via El Dato Logístico and the Atiemppo blog
 
 ## Education
 
@@ -39,34 +58,26 @@ Juan Pablo Matiz is a Colombian economist with over 25 years of experience in lo
 - Specialist in Production and Operations Management — Universidad de La Sabana
 - Program in Senior Logistics and Operations Management — Universidad de los Andes
 
-## Selected Publications
-
-- Vaccine distribution in South America from a logistics perspective (CEPAL, 2022)
-- Best logistics practices for palm agroindustry in Colombia (Fedepalma, 2020)
-- National ecologistics policy recommendations for Colombia (ICLEI, 2021)
-- Logistics clusters development in Latin America (CEPAL)
-- Regional infrastructure for Central America and Dominican Republic (IDB)
-- National logistics surveys: Costa Rica 2025, Colombia 2015, Bolivia 2018, Peru 2020
-
 ## Contact
 
 - Email: juanmatiz@atiemppo.co
-- Alt email: juanmatiz@gmail.com
+- Alternate email: juanmatiz@gmail.com
 - Phone: +57 310 768 7010
 - LinkedIn: linkedin.com/in/juanmatizg
 - Twitter: @juanmatizg
 - Website: https://juanmatiz.com
-- Location: Bogotá, Colombia (GMT-5)
+- Atiemppo: https://atiemppo.com
+- El Dato Logístico: https://www.eldatologistico.com/authors/juan-pablo-matiz
 
 ## Geographic Disambiguation
 
-Juan Pablo Matiz Gaviria is based in Bogotá, Colombia. He has worked across Colombia, Bolivia, Peru, Ecuador, Paraguay, Costa Rica, and other Latin American countries.
+Juan Pablo Matiz Gaviria is based in Bogotá, Colombia and has worked across Latin America, including Colombia, Bolivia, Peru, Ecuador, Paraguay and Costa Rica.
 
 ## Pages on this site
 
-- /sobre-mi — About me (biography)
-- /cv — Full curriculum vitae
-- /proyectos — Project portfolio
-- /publicaciones — Publications
-- /contacto — Contact information
-- /blog — Blog articles
+- /sobre-mi — biography and current work
+- /cv — full curriculum vitae
+- /proyectos — portfolio and current initiatives
+- /publicaciones — publications and editorial work
+- /contacto — contact information
+- /blog — links to current writing hubs

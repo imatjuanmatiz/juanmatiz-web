@@ -2,10 +2,10 @@
 title: "Proyectos - Juan Pablo Matiz"
 layout: default
 seo:
-  tldr: "Proyectos destacados de Juan Pablo Matiz en logística, transporte y políticas públicas en América Latina. Encuestas nacionales, planes logísticos, proyectos multilaterales."
-  description: "Portfolio de proyectos de Juan Pablo Matiz en consultoría estratégica de logística y transporte en América Latina."
+  tldr: "Proyectos actuales y trayectoria de Juan Pablo Matiz: Atiemppo, El Dato Logístico, encuestas nacionales, política pública y productos de datos para logística y transporte."
+  description: "Portfolio de proyectos de Juan Pablo Matiz en estrategia, logística, datos e inteligencia artificial aplicada."
 aiContext:
-  topic: "Portfolio de Proyectos"
+  topic: "Portfolio de Proyectos y trabajo actual"
   region: "América Latina"
 canonical: "https://juanmatiz.com/proyectos"
 ---
@@ -13,18 +13,46 @@ canonical: "https://juanmatiz.com/proyectos"
 <section class="page-hero">
   <div class="wrapper-narrow">
     <h1>Proyectos</h1>
-    <p class="page-subtitle">Proyectos estratégicos con organismos multilaterales, gobiernos y sector privado en América Latina</p>
+    <p class="page-subtitle">Lo que estoy construyendo hoy y la trayectoria que le da contexto</p>
   </div>
 </section>
 
 <section class="page-content">
   <div class="wrapper-narrow" markdown="1">
 
+## Actualmente construyendo
+
+### Atiemppo
+
+En **[Atiemppo](https://atiemppo.com/)** trabajo hoy en la intersección entre negocio, datos e IA aplicada. Allí acompañamos empresas a aterrizar ideas, leer mejor su operación y convertir esa lectura en productos, automatizaciones, agentes y herramientas útiles.
+
+Dentro de ese ecosistema hoy viven frentes como:
+
+- Productos y servicios basados en datos para transporte y logística
+- APIs y herramientas alrededor de SICETAC y analítica operativa
+- Agentes conversacionales y experiencias en WhatsApp y web
+- Un laboratorio vivo de contenidos y páginas de producto
+
+### El Dato Logístico
+
+**[El Dato Logístico](https://www.eldatologistico.com/authors/juan-pablo-matiz)** es mi frente editorial actual. Allí convierto experiencia sectorial, señales de mercado, costos, contexto e IA aplicada en piezas útiles para gerentes, analistas, operadores y equipos que necesitan decidir mejor.
+
+### Consultoría regional
+
+Sigo desarrollando consultoría especializada para multilaterales, gobiernos y empresas, especialmente en:
+
+- Política pública y modernización del transporte de carga
+- Evaluación y diseño de estrategias logísticas
+- Redes, costos, analítica aplicada y encuestas nacionales
+- Segunda opinión técnica para decisiones complejas
+
+---
+
 ## Encuestas Nacionales de Logística
 
 He dirigido la implementación de encuestas nacionales de logística en seis países de América Latina, trabajando con el BID, ministerios nacionales y entidades de planificación:
 
-- **Costa Rica** (2024 - En desarrollo) — BID
+- **Costa Rica** (2024-2025) — BID
 - **Ecuador** (2023) — Equipo consultor
 - **Perú** (2020-2021) — Dirección de análisis de datos, BID y MTC
 - **Bolivia "Bolivia en Logística"** (2018-2019) — Dirección del equipo consultor, BID y Ministerio de Desarrollo Productivo
@@ -79,19 +107,15 @@ He dirigido la implementación de encuestas nacionales de logística en seis pa�
 
 ---
 
-## Soluciones Tecnológicas (Atiemppo)
+## Soluciones Tecnológicas y Productos (Atiemppo)
 
 - Soluciones digitales implementadas para **AJE Colombia**, **Haleon**, **Galderma** y **Coca-Cola**
 - **Proyecto Imán Mágico** para Coca-Cola — Reconocido como mejor proyecto innovador a nivel regional (2014)
 - Plataformas de gestión logística, enturnamiento, seguimiento operativo y análisis de desempeño
-- Señales del Transporte: Servicio de análisis de precios del transporte
-- Dashboard Imétrica — Herramienta de inteligencia de negocios para el sector logístico
-
----
-
-## Insignia — Metodología de Marca Personal
-
-Creador de **Insignia**, una metodología para la construcción estratégica de marca personal orientada a profesionales y líderes. Insignia integra posicionamiento, narrativa profesional y presencia digital para convertir la experiencia y la trayectoria en una identidad profesional auténtica y diferenciadora.
+- Productos y páginas de servicio orientados a logística, datos e IA aplicada
+- Herramientas especializadas alrededor de **SICETAC**, analítica de red y lectura de costos
+- Infraestructura y contenido conectado con **El Dato Logístico** como capa editorial
+- Experimentación con agentes, automatizaciones y asistentes conversacionales para operación real
 
 ---
 
@@ -101,7 +125,7 @@ Creador de **Insignia**, una metodología para la construcción estratégica de 
 - 7 Estudios de Opinión de Top of Mind Logístico
 - Estudios de transporte y benchmarking para sector de construcción
 - Estudios de mercado y análisis estratégico para operadores logísticos
-- Blog de información en logística con más de 25 mil visitas
+- Blog y productos editoriales especializados en logística y transporte
 
 ---
 

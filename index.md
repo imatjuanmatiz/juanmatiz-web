@@ -1,12 +1,12 @@
 ---
-title: "Juan Pablo Matiz - Consultor Senior en Logística y Transporte"
+title: "Juan Pablo Matiz - Estrategia, Logística e IA Aplicada"
 layout: default
 seo:
-  tldr: "Juan Pablo Matiz: Economista con 25+ años en logística, transporte y consultoría estratégica en América Latina. Fundador de Atiemppo e Imétrica. Proyectos con BID, CEPAL, Banco Mundial."
-  description: "Sitio profesional de Juan Pablo Matiz. Consultor senior en logística, transporte y cadenas de suministro en América Latina."
+  tldr: "Juan Pablo Matiz: economista con 25+ años en logística y transporte en América Latina. Hoy combina consultoría estratégica, datos e IA aplicada desde Atiemppo, Imétrica y El Dato Logístico."
+  description: "Sitio profesional de Juan Pablo Matiz. Estrategia, logística, datos e inteligencia artificial aplicada para empresas, gobiernos y organismos multilaterales."
 aiContext:
-  topic: "Professional Profile, Logistics Consulting"
-  industry: "Logistics, Transport, Supply Chain, Public Policy"
+  topic: "Professional Profile, Logistics, Data and Applied AI"
+  industry: "Logistics, Transport, Supply Chain, Public Policy, Applied AI"
   region: "Latin America"
 contact:
   name: Juan Pablo Matiz Gaviria
@@ -28,18 +28,18 @@ canonical: "https://juanmatiz.com/"
         Bogotá, Colombia
       </div>
       <h1>Juan Pablo Matiz</h1>
-      <p class="hero-role">Economista | Consultor Senior en Transporte y Logística | Fundador</p>
+      <p class="hero-role">Economista | Estrategia, Logística e IA Aplicada</p>
       <p class="hero-desc">
-        Más de 25 años transformando la logística y el transporte en América Latina. Fundador de Atiemppo e Imétrica, con proyectos liderados para el BID, CEPAL, Banco Mundial y C40.
+        Trabajo en la intersección entre logística, datos e inteligencia artificial. Lidero Atiemppo, sigo acompañando proyectos regionales desde Imétrica y hoy también construyo El Dato Logístico como hub editorial para analizar transporte, costos, operación e IA aplicada.
       </p>
       <div class="hero-ctas">
-        <a href="/sobre-mi" class="btn btn-primary">
-          <i data-lucide="user"></i>
-          Conoce mi perfil
+        <a href="/proyectos" class="btn btn-primary">
+          <i data-lucide="rocket"></i>
+          Lo que estoy construyendo
         </a>
-        <a href="/contacto" class="btn btn-outline">
-          <i data-lucide="mail"></i>
-          Contacto
+        <a href="https://atiemppo.com/" class="btn btn-outline" target="_blank" rel="noopener">
+          <i data-lucide="external-link"></i>
+          Visitar Atiemppo
         </a>
       </div>
       <div class="hero-stats">
@@ -48,12 +48,12 @@ canonical: "https://juanmatiz.com/"
           <div class="stat-label">Años experiencia</div>
         </div>
         <div class="stat-item">
-          <div class="stat-number">6</div>
-          <div class="stat-label">Países LatAm</div>
+          <div class="stat-number">3</div>
+          <div class="stat-label">Frentes activos</div>
         </div>
         <div class="stat-item">
-          <div class="stat-number">2</div>
-          <div class="stat-label">Empresas fundadas</div>
+          <div class="stat-number">6</div>
+          <div class="stat-label">Encuestas nacionales</div>
         </div>
       </div>
     </div>
@@ -64,65 +64,93 @@ canonical: "https://juanmatiz.com/"
           BID · CEPAL · Banco Mundial
         </div>
         <div class="floating-badge bottom-left">
-          <i data-lucide="globe"></i>
-          6 Encuestas Nacionales
+          <i data-lucide="sparkles"></i>
+          Atiemppo · El Dato Logístico
         </div>
         <div class="hero-card-header">
           <div class="avatar">JP</div>
           <div>
             <div class="hero-card-name">Juan Pablo Matiz</div>
-            <div class="hero-card-title">Economista · Consultor Senior</div>
+            <div class="hero-card-title">Fundador · Consultor · Constructor</div>
           </div>
         </div>
         <ul class="org-list">
           <li><i data-lucide="building-2"></i> Imétrica</li>
           <li><i data-lucide="rocket"></i> Atiemppo</li>
-          <li><i data-lucide="sparkles"></i> Insignia</li>
+          <li><i data-lucide="newspaper"></i> El Dato Logístico</li>
           <li><i data-lucide="graduation-cap"></i> U. del Rosario</li>
         </ul>
         <div class="expertise-grid">
           <div class="expertise-item"><i data-lucide="truck"></i> Logística</div>
-          <div class="expertise-item"><i data-lucide="bar-chart-3"></i> Analítica</div>
+          <div class="expertise-item"><i data-lucide="bar-chart-3"></i> Datos</div>
+          <div class="expertise-item"><i data-lucide="cpu"></i> IA aplicada</div>
           <div class="expertise-item"><i data-lucide="landmark"></i> Política Pública</div>
-          <div class="expertise-item"><i data-lucide="leaf"></i> Sostenibilidad</div>
         </div>
       </div>
     </div>
   </div>
 </section>
 
-<!-- WHAT I DO -->
 <section class="section section-alt">
   <div class="wrapper">
     <div class="section-header">
+      <h2>En qué estoy hoy</h2>
+      <p class="subtitle">Tres frentes que hoy concentran mi trabajo, mi escritura y mi energía de construcción</p>
+    </div>
+    <div class="cards-grid">
+      <div class="card animate-on-scroll">
+        <div class="card-icon dark"><i data-lucide="rocket"></i></div>
+        <h3>Atiemppo</h3>
+        <p>Un puente entre negocio, datos e IA. Allí acompaño empresas y equipos a aterrizar proyectos, construir productos, desplegar agentes y convertir necesidades operativas en soluciones reales.</p>
+        <p><a href="https://atiemppo.com/" target="_blank" rel="noopener">Explorar Atiemppo</a></p>
+      </div>
+      <div class="card animate-on-scroll">
+        <div class="card-icon blue"><i data-lucide="newspaper"></i></div>
+        <h3>El Dato Logístico</h3>
+        <p>Mi frente editorial actual. Un newsletter y ecosistema de contenido para traducir señales del transporte, costos, datos e IA aplicada en ideas útiles para quienes toman decisiones en logística.</p>
+        <p><a href="https://www.eldatologistico.com/authors/juan-pablo-matiz" target="_blank" rel="noopener">Ver publicaciones</a></p>
+      </div>
+      <div class="card animate-on-scroll">
+        <div class="card-icon gold"><i data-lucide="briefcase-business"></i></div>
+        <h3>Consultoría regional</h3>
+        <p>Sigo liderando y acompañando proyectos para organismos multilaterales, gobiernos y empresas en política pública, redes logísticas, encuestas nacionales y estrategia sectorial.</p>
+        <p><a href="/proyectos">Ver proyectos</a></p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrapper">
+    <div class="section-header">
       <h2>Lo que hago</h2>
-      <p class="subtitle">Áreas de especialización con impacto real en la región</p>
+      <p class="subtitle">Capacidades que conectan trayectoria, análisis y ejecución</p>
     </div>
     <div class="cards-grid">
       <div class="card animate-on-scroll">
         <div class="card-icon blue"><i data-lucide="clipboard-list"></i></div>
-        <h3>Consultoría Estratégica</h3>
-        <p>Diseño y evaluación de políticas públicas en transporte, logística y cadenas de suministro. Formulación de planes nacionales y hojas de ruta sectoriales.</p>
+        <h3>Estrategia y criterio</h3>
+        <p>Acompaño a directivos, equipos y organizaciones a leer mejor un problema logístico, priorizarlo y tomar una ruta de acción con sentido técnico y de negocio.</p>
       </div>
       <div class="card animate-on-scroll">
         <div class="card-icon gold"><i data-lucide="bar-chart-3"></i></div>
-        <h3>Encuestas Nacionales de Logística</h3>
-        <p>Dirección de encuestas nacionales en Colombia, Bolivia, Perú, Ecuador, Paraguay y Costa Rica para el BID, DNP y ministerios nacionales.</p>
+        <h3>Datos e inteligencia logística</h3>
+        <p>Trabajo con datos operativos, costos, redes y señales de mercado para convertir información dispersa en decisiones más claras y herramientas más útiles.</p>
       </div>
       <div class="card animate-on-scroll">
         <div class="card-icon dark"><i data-lucide="cpu"></i></div>
-        <h3>Transformación Digital</h3>
-        <p>Diseño de soluciones digitales y analíticas aplicadas a logística y transporte. Plataformas de captura de datos, análisis operativo y toma de decisiones.</p>
+        <h3>Productos y agentes</h3>
+        <p>Diseño y desarrollo soluciones digitales, APIs, automatizaciones y agentes de IA aplicados a logística, transporte y operación empresarial.</p>
       </div>
       <div class="card animate-on-scroll">
         <div class="card-icon green"><i data-lucide="leaf"></i></div>
-        <h3>Sostenibilidad y Descarbonización</h3>
-        <p>Apoyo a programas de logística urbana sostenible, modernización de flotas y estrategias de ecologística en colaboración con C40 e ICLEI.</p>
+        <h3>Política pública y sostenibilidad</h3>
+        <p>He trabajado en modernización del transporte de carga, logística urbana, ecologística y descarbonización con entidades como C40, ICLEI y gobiernos de la región.</p>
       </div>
       <div class="card animate-on-scroll">
-        <div class="card-icon" style="background: linear-gradient(135deg, #7c3aed, #a78bfa);"><i data-lucide="sparkles"></i></div>
-        <h3>Insignia — Marca Personal</h3>
-        <p>Metodología propia para ayudar a profesionales y líderes a construir, posicionar y potenciar su marca personal de manera estratégica y auténtica.</p>
+        <div class="card-icon" style="background: linear-gradient(135deg, #0f766e, #14b8a6);"><i data-lucide="mic"></i></div>
+        <h3>Contenido y conversación</h3>
+        <p>Escribo, explico y traduzco temas complejos para que logística, tecnología e IA aplicada sean más comprensibles y accionables para tomadores de decisión.</p>
       </div>
     </div>
   </div>
@@ -132,8 +160,8 @@ canonical: "https://juanmatiz.com/"
 <section class="section">
   <div class="wrapper">
     <div class="section-header">
-      <h2>Organizaciones con las que he trabajado</h2>
-      <p class="subtitle">Colaboraciones con organismos multilaterales, gobiernos y sector privado</p>
+      <h2>Organizaciones y marcas con las que he trabajado</h2>
+      <p class="subtitle">Trabajo con multilaterales, gobiernos y empresas donde la operación exige profundidad técnica y capacidad de ejecución</p>
     </div>
     <div class="clients-row">
       <div class="client-item">BID</div>
@@ -155,7 +183,7 @@ canonical: "https://juanmatiz.com/"
   <div class="wrapper">
     <div class="section-header">
       <h2>Presencia Regional</h2>
-      <p class="subtitle">Encuestas Nacionales de Logística dirigidas en América Latina</p>
+      <p class="subtitle">Encuestas Nacionales de Logística y proyectos estratégicos en América Latina</p>
     </div>
     <div class="clients-row">
       <div class="client-item">Colombia 2015</div>
@@ -163,7 +191,7 @@ canonical: "https://juanmatiz.com/"
       <div class="client-item">Perú 2020-2021</div>
       <div class="client-item">Paraguay 2012-2013</div>
       <div class="client-item">Ecuador 2023</div>
-      <div class="client-item">Costa Rica 2024</div>
+      <div class="client-item">Costa Rica 2024-2025</div>
     </div>
   </div>
 </section>
@@ -173,7 +201,7 @@ canonical: "https://juanmatiz.com/"
   <div class="wrapper">
     <div class="section-header">
       <h2>¿Trabajamos juntos?</h2>
-      <p class="subtitle">Estoy disponible para proyectos de consultoría, asesoría estratégica y colaboraciones en logística y transporte en América Latina.</p>
+      <p class="subtitle">Si necesitas combinar experiencia logística, lectura de datos y criterio para IA aplicada, conversemos. Trabajo con empresas, organismos multilaterales, equipos directivos y proyectos editoriales especializados.</p>
     </div>
     <div style="text-align: center;">
       <a href="/contacto" class="btn btn-accent">

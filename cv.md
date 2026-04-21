@@ -2,7 +2,7 @@
 title: "CV - Juan Pablo Matiz"
 layout: default
 seo:
-  tldr: "CV completo Juan Pablo Matiz: Economista, 25+ años en logística y transporte. Fundador Atiemppo e Imétrica. Proyectos BID, CEPAL, Banco Mundial, C40. Encuestas nacionales en 6 países LatAm."
+  tldr: "CV completo Juan Pablo Matiz: economista con 25+ años en logística y transporte. Fundador de Imétrica y Atiemppo. Consultoría, datos, IA aplicada y trabajo editorial en América Latina."
   description: "Curriculum Vitae de Juan Pablo Matiz. Consultor Senior en Transporte y Logística en América Latina."
 aiContext:
   topic: Curriculum Vitae
@@ -15,7 +15,7 @@ canonical: https://juanmatiz.com/cv
   <div class="wrapper-narrow">
     <div class="cv-header">
       <h1>Juan Pablo Matiz</h1>
-      <p class="cv-subtitle">Economista | Consultor Senior en Transporte y Logística | Fundador</p>
+      <p class="cv-subtitle">Economista | Consultor Senior en Logística, Datos e IA Aplicada | Fundador</p>
       <div class="cv-contact-row">
         <span>Bogotá, Colombia</span>
         <span>·</span>
@@ -87,7 +87,7 @@ Firma especializada en consultoría estratégica y análisis aplicado en transpo
 ### ATIEMPPO S.A.S. — Fundador y CEO
 *2013 – Actualidad · Bogotá, Colombia*
 
-Empresa enfocada en el diseño y desarrollo de soluciones digitales y analíticas aplicadas a logística, transporte y operaciones comerciales, cerrando la brecha entre la estrategia, los datos y la operación real.
+Empresa enfocada hoy en estrategia, datos, automatización e inteligencia artificial aplicada a logística, transporte y operaciones comerciales, cerrando la brecha entre la necesidad del negocio, la ejecución técnica y el uso real en operación.
 
 Liderazgo de procesos de transformación digital aplicada, acompañando a empresas y entidades públicas en la adopción de herramientas para captura de información en campo, análisis operativo y soporte a la toma de decisiones.
 
@@ -95,14 +95,15 @@ Liderazgo de procesos de transformación digital aplicada, acompañando a empres
 - Soluciones implementadas para AJE Colombia, Haleon, Galderma y Coca-Cola
 - **Proyecto Imán Mágico** para Coca-Cola — Reconocido a nivel regional por su enfoque innovador y su impacto operativo
 - Plataformas para gestión logística, enturnamiento, seguimiento operativo y análisis de desempeño
-- Exploración de analítica avanzada, automatización e inteligencia artificial como habilitadores de eficiencia
+- Desarrollo de productos, agentes, automatizaciones y herramientas de datos para operación y toma de decisiones
+- Construcción del frente editorial y de producto conectado con **El Dato Logístico**
 
 ---
 
-### Insignia — Creador y Fundador
+### El Dato Logístico — Editor y fundador
 *2026 – Actualidad*
 
-Creador de **Insignia**, una metodología para la construcción estratégica de marca personal orientada a profesionales y líderes. Insignia integra posicionamiento, narrativa profesional y presencia digital para convertir la experiencia y la trayectoria en una identidad profesional auténtica y diferenciadora.
+Iniciativa editorial enfocada en convertir datos, señales de mercado, costos, contexto logístico e IA aplicada en contenido útil para tomadores de decisión en transporte y supply chain. Articula newsletter, análisis, productos de información y experiencias conversacionales especializadas.
 
 ---
 
@@ -133,7 +134,7 @@ Liderazgo de la planeación y ejecución de operaciones, dirección estratégica
 - **Infraestructura física y logística para la integración regional y el fortalecimiento de las cadenas de valor en los países andinos** — CEPAL
 - **El desarrollo de los clústeres logísticos en América Latina** — CEPAL
 - **Infraestructura regional para el desarrollo económico y logístico de Centroamérica y República Dominicana** — BID
-- Encuestas nacionales de logística: Costa Rica 2025, Colombia 2015, Bolivia 2018, Perú 2020
+- Encuestas nacionales de logística: Costa Rica 2024-2025, Colombia 2015, Bolivia 2018, Perú 2020
 
 ---
 

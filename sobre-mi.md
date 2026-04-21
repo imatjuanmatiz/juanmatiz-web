@@ -2,10 +2,10 @@
 title: "Sobre Juan Pablo Matiz"
 layout: default
 seo:
-  tldr: "Economista con 25+ años en logística LatAm. Fundador Atiemppo e Imétrica. Creador de Insignia, metodología de marca personal. Experto en consultoría estratégica, políticas públicas, transformación digital."
-  description: "Biografía profesional de Juan Pablo Matiz. Consultor senior en logística, transporte y cadenas de suministro en América Latina."
+  tldr: "Economista con 25+ años en logística LatAm. Fundador de Atiemppo e Imétrica. Hoy combina consultoría estratégica, análisis de datos, productos y contenido editorial sobre logística e IA aplicada."
+  description: "Biografía profesional de Juan Pablo Matiz. Estrategia, logística, datos e inteligencia artificial aplicada en América Latina."
 aiContext:
-  topic: "Biografía Profesional"
+  topic: "Biografía Profesional y trabajo actual"
   region: "Colombia, América Latina"
 canonical: "https://juanmatiz.com/sobre-mi"
 ---
@@ -13,12 +13,20 @@ canonical: "https://juanmatiz.com/sobre-mi"
 <section class="page-hero">
   <div class="wrapper-narrow">
     <h1>Sobre mí</h1>
-    <p class="page-subtitle">Transformando la logística y el transporte en América Latina por más de 25 años</p>
+    <p class="page-subtitle">Consultoría, datos, logística e IA aplicada con base en Bogotá y trabajo en toda América Latina</p>
   </div>
 </section>
 
 <section class="page-content">
   <div class="wrapper-narrow" markdown="1">
+
+## Qué estoy construyendo hoy
+
+Hoy concentro mi trabajo en tres frentes complementarios:
+
+- **[Atiemppo](https://atiemppo.com/)**: acompaño empresas a aterrizar problemas de negocio en proyectos de datos, automatización, productos y agentes de IA aplicados a operación real.
+- **[El Dato Logístico](https://www.eldatologistico.com/authors/juan-pablo-matiz)**: desarrollo un frente editorial para analizar transporte, costos, mercado, herramientas y señales útiles para quienes toman decisiones en logística.
+- **Consultoría regional desde Imétrica**: sigo trabajando con organismos multilaterales, gobiernos y empresas en política pública, redes, encuestas nacionales y transformación logística.
 
 ## Trayectoria
 
@@ -26,7 +34,7 @@ Papá de Alejandro. Economista con más de 25 años de experiencia en logística
 
 Soy fundador de **Atiemppo** (2013) e **Imétrica** (2012), empresas especializadas en consultoría estratégica, investigación aplicada, analítica de datos y desarrollo de soluciones tecnológicas para el sector logístico.
 
-## Enfoque de trabajo
+## Cómo trabajo hoy
 
 Trabajo en la intersección entre **empresa**, **datos**, **tecnología** y **políticas públicas**. Asesoro a empresas, gobiernos y organismos multilaterales en procesos de transformación logística orientados a fortalecer la toma de decisiones, el desempeño operativo, la sostenibilidad y la competitividad.
 
@@ -40,15 +48,15 @@ He dirigido **Encuestas Nacionales de Logística** en seis países de América L
 
 También he liderado la elaboración de planes nacionales de logística, estrategias de ecologística, evaluaciones de políticas públicas y proyectos de modernización del transporte en la región.
 
-## Insignia — Metodología de Marca Personal
-
-Soy el creador de **Insignia**, una metodología diseñada para ayudar a profesionales y líderes a construir, posicionar y potenciar su marca personal de manera estratégica y auténtica. Insignia nace de mi propia experiencia construyendo presencia profesional en el sector logístico y busca empoderar a otros profesionales para que su expertise y trayectoria se conviertan en su mejor carta de presentación.
-
-## Innovación tecnológica
+## Innovación tecnológica y productos
 
 Apasionado por la tecnología aplicada, desde Atiemppo he liderado procesos de transformación digital, acompañando a empresas y entidades públicas en la adopción de herramientas para captura de información en campo, análisis operativo y soporte a la toma de decisiones.
 
-He desarrollado proyectos para empresas como AJE Colombia, Haleon, Galderma y Coca-Cola, incluyendo el **Proyecto Imán Mágico**, reconocido a nivel regional por su enfoque innovador y su impacto operativo.
+He desarrollado proyectos para empresas como AJE Colombia, Haleon, Galderma y Coca-Cola, incluyendo el **Proyecto Imán Mágico**, reconocido a nivel regional por su enfoque innovador y su impacto operativo. En esta nueva etapa, el foco también incluye productos de datos, APIs, agentes de IA y experiencias conversacionales especializadas para logística y transporte.
+
+## Escritura y pensamiento aplicado
+
+Además de la consultoría, escribo para ordenar ideas, compartir aprendizajes y convertir señales del sector en herramientas de decisión. Hoy esa línea vive principalmente en **El Dato Logístico** y en el laboratorio de contenidos de **Atiemppo**, donde conecto análisis, producto y conversación con la industria.
 
 ## Vocación académica
 
