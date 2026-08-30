@@ -107,10 +107,10 @@ Liderazgo de procesos de transformación digital aplicada, acompañando a empres
 
 ---
 
-### Insignia — Creador y Fundador
+### El Dato Logístico — Editor y fundador
 *2026 – Actualidad*
 
-Creador de **Insignia**, una metodología para la construcción estratégica de marca personal orientada a profesionales y líderes. Insignia integra posicionamiento, narrativa profesional y presencia digital para convertir la experiencia y la trayectoria en una identidad profesional auténtica y diferenciadora.
+Iniciativa editorial enfocada en convertir datos, señales de mercado, costos, contexto logístico e IA aplicada en contenido útil para tomadores de decisión en transporte y supply chain. Articula newsletter, análisis, productos de información y experiencias conversacionales especializadas.
 
 ---
 
@@ -141,7 +141,7 @@ Liderazgo de la planeación y ejecución de operaciones, dirección estratégica
 - **Infraestructura física y logística para la integración regional y el fortalecimiento de las cadenas de valor en los países andinos** — CEPAL
 - **El desarrollo de los clústeres logísticos en América Latina** — CEPAL
 - **Infraestructura regional para el desarrollo económico y logístico de Centroamérica y República Dominicana** — BID
-- Encuestas nacionales de logística: Costa Rica 2025, Colombia 2015, Bolivia 2018, Perú 2020
+- Encuestas nacionales de logística: Costa Rica 2024-2025, Colombia 2015, Bolivia 2018, Perú 2020
 
 ---
 

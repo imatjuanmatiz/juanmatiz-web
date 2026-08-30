@@ -5,8 +5,8 @@ seo:
   tldr: "Juan Pablo Matiz ayuda a equipos de transporte y logística a decidir mejor. Docente, investigador aplicado, speaker y consultor senior. Fundador de ATIEMPPO, con más de 25 años de experiencia en América Latina."
   description: "Sitio profesional de Juan Pablo Matiz: docente, investigador aplicado, speaker y consultor senior para equipos de transporte y logística en América Latina."
 aiContext:
-  topic: "Professional Profile, Logistics Consulting"
-  industry: "Logistics, Transport, Supply Chain, Public Policy"
+  topic: "Professional Profile, Logistics, Data and Applied AI"
+  industry: "Logistics, Transport, Supply Chain, Public Policy, Applied AI"
   region: "Latin America"
 contact:
   name: Juan Pablo Matiz Gaviria
@@ -33,13 +33,13 @@ canonical: "https://juanmatiz.com/"
         Ayudo a equipos de transporte y logística a decidir mejor. Soy fundador de ATIEMPPO y trabajo en América Latina conectando experiencia sectorial, investigación aplicada, datos y capacidades que llegan a la operación.
       </p>
       <div class="hero-ctas">
-        <a href="/sobre-mi" class="btn btn-primary">
-          <i data-lucide="user"></i>
-          Conoce mi perfil
+        <a href="/proyectos" class="btn btn-primary">
+          <i data-lucide="rocket"></i>
+          Lo que estoy construyendo
         </a>
-        <a href="/contacto" class="btn btn-outline">
-          <i data-lucide="mail"></i>
-          Contacto
+        <a href="https://atiemppo.com/" class="btn btn-outline" target="_blank" rel="noopener">
+          <i data-lucide="external-link"></i>
+          Visitar Atiemppo
         </a>
       </div>
       <div class="hero-stats">
@@ -48,12 +48,12 @@ canonical: "https://juanmatiz.com/"
           <div class="stat-label">Años experiencia</div>
         </div>
         <div class="stat-item">
-          <div class="stat-number">6</div>
-          <div class="stat-label">Países LatAm</div>
+          <div class="stat-number">3</div>
+          <div class="stat-label">Frentes activos</div>
         </div>
         <div class="stat-item">
-          <div class="stat-number">2</div>
-          <div class="stat-label">Empresas fundadas</div>
+          <div class="stat-number">6</div>
+          <div class="stat-label">Encuestas nacionales</div>
         </div>
       </div>
     </div>
@@ -64,45 +64,72 @@ canonical: "https://juanmatiz.com/"
           BID · CEPAL · Banco Mundial
         </div>
         <div class="floating-badge bottom-left">
-          <i data-lucide="globe"></i>
-          6 Encuestas Nacionales
+          <i data-lucide="sparkles"></i>
+          Atiemppo · El Dato Logístico
         </div>
         <div class="hero-card-header">
           <div class="avatar">JP</div>
           <div>
             <div class="hero-card-name">Juan Pablo Matiz</div>
-            <div class="hero-card-title">Economista · Consultor Senior</div>
+            <div class="hero-card-title">Fundador · Consultor · Constructor</div>
           </div>
         </div>
         <ul class="org-list">
-          <li><i data-lucide="building-2"></i> Imétrica · trayectoria</li>
-          <li><i data-lucide="rocket"></i> ATIEMPPO</li>
-          <li><i data-lucide="sparkles"></i> Insignia</li>
-          <li><i data-lucide="graduation-cap"></i> U. del Rosario</li>
+          <li><i data-lucide="rocket"></i> Atiemppo</li>
+          <li><i data-lucide="newspaper"></i> El Dato Logístico</li>
+          <li><i data-lucide="graduation-cap"></i> U. CESA</li>
         </ul>
         <div class="expertise-grid">
           <div class="expertise-item"><i data-lucide="truck"></i> Logística</div>
-          <div class="expertise-item"><i data-lucide="bar-chart-3"></i> Analítica</div>
+          <div class="expertise-item"><i data-lucide="bar-chart-3"></i> Datos</div>
+          <div class="expertise-item"><i data-lucide="cpu"></i> IA aplicada</div>
           <div class="expertise-item"><i data-lucide="landmark"></i> Política Pública</div>
-          <div class="expertise-item"><i data-lucide="leaf"></i> Sostenibilidad</div>
         </div>
       </div>
     </div>
   </div>
 </section>
 
-<!-- WHAT I DO -->
 <section class="section section-alt">
   <div class="wrapper">
     <div class="section-header">
+      <h2>En qué estoy hoy</h2>
+      <p class="subtitle">Tres frentes que hoy concentran mi trabajo, mi escritura y mi energía de construcción</p>
+    </div>
+    <div class="cards-grid">
+      <div class="card animate-on-scroll">
+        <div class="card-icon dark"><i data-lucide="rocket"></i></div>
+        <h3>Atiemppo</h3>
+        <p>Un puente entre negocio, datos e IA. Allí acompaño empresas y equipos a aterrizar proyectos, construir productos, desplegar agentes y convertir necesidades operativas en soluciones reales.</p>
+        <p><a href="https://atiemppo.com/" target="_blank" rel="noopener">Explorar Atiemppo</a></p>
+      </div>
+      <div class="card animate-on-scroll">
+        <div class="card-icon blue"><i data-lucide="newspaper"></i></div>
+        <h3>El Dato Logístico</h3>
+        <p>Mi frente editorial actual. Un newsletter y ecosistema de contenido para traducir señales del transporte, costos, datos e IA aplicada en ideas útiles para quienes toman decisiones en logística.</p>
+        <p><a href="https://www.eldatologistico.com/authors/juan-pablo-matiz" target="_blank" rel="noopener">Ver publicaciones</a></p>
+      </div>
+      <div class="card animate-on-scroll">
+        <div class="card-icon gold"><i data-lucide="briefcase-business"></i></div>
+        <h3>Consultoría regional</h3>
+        <p>Sigo liderando y acompañando proyectos para organismos multilaterales, gobiernos y empresas en política pública, redes logísticas, encuestas nacionales y estrategia sectorial.</p>
+        <p><a href="/proyectos">Ver proyectos</a></p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrapper">
+    <div class="section-header">
       <h2>Lo que hago</h2>
-      <p class="subtitle">Áreas de especialización con impacto real en la región</p>
+      <p class="subtitle">Capacidades que conectan trayectoria, análisis y ejecución</p>
     </div>
     <div class="cards-grid">
       <div class="card animate-on-scroll">
         <div class="card-icon blue"><i data-lucide="clipboard-list"></i></div>
-        <h3>Consultoría Estratégica</h3>
-        <p>Diseño y evaluación de políticas públicas en transporte, logística y cadenas de suministro. Formulación de planes nacionales y hojas de ruta sectoriales.</p>
+        <h3>Estrategia y criterio</h3>
+        <p>Acompaño a directivos, equipos y organizaciones a leer mejor un problema logístico, priorizarlo y tomar una ruta de acción con sentido técnico y de negocio.</p>
       </div>
       <div class="card animate-on-scroll">
         <div class="card-icon gold"><i data-lucide="bar-chart-3"></i></div>
@@ -120,9 +147,9 @@ canonical: "https://juanmatiz.com/"
         <p>Comparto conocimiento con equipos, empresarios, gerentes y estudiantes mediante clases, conferencias y experiencias de aprendizaje aplicado.</p>
       </div>
       <div class="card animate-on-scroll">
-        <div class="card-icon" style="background: linear-gradient(135deg, #7c3aed, #a78bfa);"><i data-lucide="sparkles"></i></div>
-        <h3>Insignia — Marca Personal</h3>
-        <p>Metodología propia para ayudar a profesionales y líderes a construir, posicionar y potenciar su marca personal de manera estratégica y auténtica.</p>
+        <div class="card-icon" style="background: linear-gradient(135deg, #0f766e, #14b8a6);"><i data-lucide="mic"></i></div>
+        <h3>Contenido y conversación</h3>
+        <p>Escribo, explico y traduzco temas complejos para que logística, tecnología e IA aplicada sean más comprensibles y accionables para tomadores de decisión.</p>
       </div>
     </div>
   </div>
@@ -162,8 +189,8 @@ canonical: "https://juanmatiz.com/"
 <section class="section">
   <div class="wrapper">
     <div class="section-header">
-      <h2>Organizaciones con las que he trabajado</h2>
-      <p class="subtitle">Colaboraciones con organismos multilaterales, gobiernos y sector privado</p>
+      <h2>Organizaciones y marcas con las que he trabajado</h2>
+      <p class="subtitle">Trabajo con multilaterales, gobiernos y empresas donde la operación exige profundidad técnica y capacidad de ejecución</p>
     </div>
     <div class="clients-row">
       <div class="client-item">BID</div>
@@ -203,7 +230,7 @@ canonical: "https://juanmatiz.com/"
   <div class="wrapper">
     <div class="section-header">
       <h2>¿Trabajamos juntos?</h2>
-      <p class="subtitle">Estoy disponible para proyectos de consultoría, asesoría estratégica y colaboraciones en logística y transporte en América Latina.</p>
+      <p class="subtitle">Si necesitas combinar experiencia logística, lectura de datos y criterio para IA aplicada, conversemos. Trabajo con empresas, organismos multilaterales, equipos directivos y proyectos editoriales especializados.</p>
     </div>
     <div style="text-align: center;">
       <a href="/contacto" class="btn btn-accent">

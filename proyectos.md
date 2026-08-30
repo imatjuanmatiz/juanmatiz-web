@@ -5,7 +5,7 @@ seo:
   tldr: "Trabajo actual de Juan Pablo Matiz en ATIEMPPO: SICETAC, Novedades en Vías, Reportes Vivos, El Dato Logístico, Profe Bruno y ATIEMPPO Lab; trayectoria de consultoría en América Latina."
   description: "Conoce los proyectos que desarrollo en ATIEMPPO para decidir mejor en transporte y logística, mi aporte en cada uno y dónde consultarlos."
 aiContext:
-  topic: "Portfolio de Proyectos"
+  topic: "Portfolio de Proyectos y trabajo actual"
   region: "América Latina"
 canonical: "https://juanmatiz.com/proyectos"
 ---
@@ -155,14 +155,10 @@ También he desarrollado soluciones digitales y análisis aplicados a la operaci
 - Soluciones digitales implementadas para **AJE Colombia**, **Haleon**, **Galderma** y **Coca-Cola**
 - **Proyecto Imán Mágico** para Coca-Cola — Reconocido como mejor proyecto innovador a nivel regional (2014)
 - Plataformas de gestión logística, enturnamiento, seguimiento operativo y análisis de desempeño
-- Señales del Transporte: Servicio de análisis de precios del transporte
-- Dashboard Imétrica — Herramienta de inteligencia de negocios para el sector logístico
-
----
-
-## Insignia — Metodología de Marca Personal
-
-Creador de **Insignia**, una metodología para la construcción estratégica de marca personal orientada a profesionales y líderes. Insignia integra posicionamiento, narrativa profesional y presencia digital para convertir la experiencia y la trayectoria en una identidad profesional auténtica y diferenciadora.
+- Productos y páginas de servicio orientados a logística, datos e IA aplicada
+- Herramientas especializadas alrededor de **SICETAC**, analítica de red y lectura de costos
+- Infraestructura y contenido conectado con **El Dato Logístico** como capa editorial
+- Experimentación con agentes, automatizaciones y asistentes conversacionales para operación real
 
 ---
 
@@ -172,7 +168,7 @@ Creador de **Insignia**, una metodología para la construcción estratégica de 
 - 7 Estudios de Opinión de Top of Mind Logístico
 - Estudios de transporte y benchmarking para sector de construcción
 - Estudios de mercado y análisis estratégico para operadores logísticos
-- Blog de información en logística con más de 25 mil visitas
+- Blog y productos editoriales especializados en logística y transporte
 
 ---
 

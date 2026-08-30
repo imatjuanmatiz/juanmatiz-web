@@ -5,7 +5,7 @@ seo:
   tldr: "Juan Pablo Matiz ayuda a equipos de transporte y logística a decidir mejor. Docente, investigador aplicado, speaker y consultor senior. Fundador de ATIEMPPO y experto en logística, transporte y datos en América Latina."
   description: "Biografía profesional de Juan Pablo Matiz, docente, investigador aplicado, speaker y consultor senior para equipos de transporte y logística en América Latina."
 aiContext:
-  topic: "Biografía Profesional"
+  topic: "Biografía Profesional y trabajo actual"
   region: "Colombia, América Latina"
 canonical: "https://juanmatiz.com/sobre-mi"
 ---
@@ -13,12 +13,20 @@ canonical: "https://juanmatiz.com/sobre-mi"
 <section class="page-hero">
   <div class="wrapper-narrow">
     <h1>Sobre mí</h1>
-    <p class="page-subtitle">Transformando la logística y el transporte en América Latina por más de 25 años</p>
+    <p class="page-subtitle">Consultoría, datos, logística e IA aplicada con base en Bogotá y trabajo en toda América Latina</p>
   </div>
 </section>
 
 <section class="page-content">
   <div class="wrapper-narrow" markdown="1">
+
+## Qué estoy construyendo hoy
+
+Hoy concentro mi trabajo en tres frentes complementarios:
+
+- **[Atiemppo](https://atiemppo.com/)**: acompaño empresas a aterrizar problemas de negocio en proyectos de datos, automatización, productos y agentes de IA aplicados a operación real.
+- **[El Dato Logístico](https://www.eldatologistico.com/authors/juan-pablo-matiz)**: desarrollo un frente editorial para analizar transporte, costos, mercado, herramientas y señales útiles para quienes toman decisiones en logística.
+- **Consultoría regional**: sigo trabajando con organismos multilaterales, gobiernos y empresas en política pública, redes, encuestas nacionales y transformación logística.
 
 ## Trayectoria
 
@@ -26,7 +34,7 @@ Ayudo a equipos de transporte y logística a decidir mejor. Soy docente, investi
 
 Soy fundador de **ATIEMPPO** (2013). También participé como cofundador de **Imétrica**; el cargo documentado de Director de Estudios allí abarca del 26 de junio de 2015 al 30 de enero de 2026. Son trayectorias distintas y complementarias: ATIEMPPO desarrolla consultoría, aplicaciones, información y experiencias de aprendizaje para transporte y logística; Imétrica concentra la trayectoria histórica de consultoría estratégica e investigación aplicada.
 
-## Enfoque de trabajo
+## Cómo trabajo hoy
 
 Trabajo en la intersección entre **empresa**, **datos**, **tecnología** y **políticas públicas**. Asesoro a empresas, gobiernos y organismos multilaterales en procesos de transformación logística orientados a fortalecer la toma de decisiones, el desempeño operativo, la sostenibilidad y la competitividad.
 
@@ -44,15 +52,15 @@ Hoy, desde ATIEMPPO, desarrollo SICETAC al Instante, Novedades en Vías, Reporte
 
 [Conoce mi aporte y el estado de cada proyecto](/proyectos).
 
-## Insignia — Metodología de Marca Personal
-
-Soy el creador de **Insignia**, una metodología diseñada para ayudar a profesionales y líderes a construir, posicionar y potenciar su marca personal de manera estratégica y auténtica. Insignia nace de mi propia experiencia construyendo presencia profesional en el sector logístico y busca empoderar a otros profesionales para que su expertise y trayectoria se conviertan en su mejor carta de presentación.
-
-## Innovación tecnológica
+## Innovación tecnológica y productos
 
 Apasionado por la tecnología aplicada, desde ATIEMPPO he liderado procesos de transformación digital, acompañando a empresas y entidades públicas en la adopción de herramientas para captura de información en campo, análisis operativo y soporte a la toma de decisiones.
 
-He desarrollado proyectos para empresas como AJE Colombia, Haleon, Galderma y Coca-Cola, incluyendo el **Proyecto Imán Mágico**, reconocido a nivel regional por su enfoque innovador y su impacto operativo.
+He desarrollado proyectos para empresas como AJE Colombia, Haleon, Galderma y Coca-Cola, incluyendo el **Proyecto Imán Mágico**, reconocido a nivel regional por su enfoque innovador y su impacto operativo. En esta nueva etapa, el foco también incluye productos de datos, APIs, agentes de IA y experiencias conversacionales especializadas para logística y transporte.
+
+## Escritura y pensamiento aplicado
+
+Además de la consultoría, escribo para ordenar ideas, compartir aprendizajes y convertir señales del sector en herramientas de decisión. Hoy esa línea vive principalmente en **El Dato Logístico** y en el laboratorio de contenidos de **Atiemppo**, donde conecto análisis, producto y conversación con la industria.
 
 ## Vocación académica
 
