@@ -71,9 +71,9 @@ canonical: "https://juanmatiz.com/contacto"
 
 ## Empresas
 
-**Imétrica S.A.S.** — Consultoría estratégica en transporte, logística y cadenas de suministro
+**ATIEMPPO S.A.S.** — Consultoría, aplicaciones, información y aprendizaje para logística y transporte · [atiemppo.com](https://atiemppo.com)
 
-**Atiemppo S.A.S.** — Soluciones digitales y analíticas para logística y transporte · [atiemppo.co](https://atiemppo.co)
+Mi etapa como cofundador y Director de Estudios de **Imétrica S.A.S.** forma parte de [mi trayectoria profesional](/cv).
 
 ---
 

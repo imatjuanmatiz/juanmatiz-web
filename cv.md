@@ -2,8 +2,8 @@
 title: "CV - Juan Pablo Matiz"
 layout: default
 seo:
-  tldr: "CV completo Juan Pablo Matiz: Economista, 25+ años en logística y transporte. Fundador Atiemppo e Imétrica. Proyectos BID, CEPAL, Banco Mundial, C40. Encuestas nacionales en 6 países LatAm."
-  description: "Curriculum Vitae de Juan Pablo Matiz. Consultor Senior en Transporte y Logística en América Latina."
+  tldr: "CV de Juan Pablo Matiz: docente, investigador aplicado, speaker y consultor senior. Ayuda a equipos de transporte y logística a decidir mejor. Fundador de ATIEMPPO, con más de 25 años de experiencia en América Latina."
+  description: "Curriculum Vitae de Juan Pablo Matiz, docente, investigador aplicado, speaker y consultor senior en transporte y logística en América Latina."
 aiContext:
   topic: Curriculum Vitae
   industry: Logística, Consultoría, Transporte
@@ -15,7 +15,7 @@ canonical: https://juanmatiz.com/cv
   <div class="wrapper-narrow">
     <div class="cv-header">
       <h1>Juan Pablo Matiz</h1>
-      <p class="cv-subtitle">Economista | Consultor Senior en Transporte y Logística | Fundador</p>
+      <p class="cv-subtitle">Docente | Investigador aplicado | Speaker | Consultor senior</p>
       <div class="cv-contact-row">
         <span>Bogotá, Colombia</span>
         <span>·</span>
@@ -36,7 +36,7 @@ canonical: https://juanmatiz.com/cv
 
 ## Perfil Profesional
 
-Papá de Alejandro y economista con más de 25 años de experiencia en logística, transporte y consultoría estratégica en América Latina. Fundador de Atiemppo e Imétrica, ha liderado proyectos para el BID, CEPAL, Banco Mundial y C40, así como para empresas, gremios y gobiernos.
+Ayudo a equipos de transporte y logística a decidir mejor. Soy docente, investigador aplicado, speaker y consultor senior. Papá de Alejandro y economista con más de 25 años de experiencia en logística, transporte y consultoría estratégica en América Latina. Soy fundador de ATIEMPPO e Imétrica y he liderado proyectos para el BID, CEPAL, Banco Mundial y C40, así como para empresas, gremios y gobiernos.
 
 Economista con más de veinticinco años de experiencia profesional en el diseño, análisis e implementación de políticas públicas, estrategias sectoriales y proyectos técnicos en transporte, logística y cadenas de suministro en América Latina. Su trayectoria combina trabajo directo con entidades gubernamentales, organismos multilaterales, gremios empresariales y sector privado, con un fuerte énfasis en coordinación interinstitucional, producción de insumos técnicos y apoyo a procesos de implementación.
 
@@ -48,8 +48,8 @@ Formación en Supply Chain Management con énfasis en logística y operaciones, 
 
 ## Experiencia Profesional
 
-### IMÉTRICA S.A.S. — Fundador y Consultor Senior
-*2012 – Actualidad · Bogotá, Colombia*
+### IMÉTRICA S.A.S. — Cofundador y Director de Estudios
+*26 de junio de 2015 – 30 de enero de 2026 · Bogotá, Colombia*
 
 Firma especializada en consultoría estratégica y análisis aplicado en transporte, logística y cadenas de suministro, con amplia experiencia en proyectos de política pública y cooperación internacional.
 
@@ -58,7 +58,7 @@ Firma especializada en consultoría estratégica y análisis aplicado en transpo
 - Equipo consultor de "Colombia es Logística" (DNP, 2015)
 - Dirección de análisis de datos de la encuesta nacional de Perú (BID y MTC, 2020-2021)
 - Dirección del equipo consultor para Ecuador (2023)
-- Dirección del equipo consultor para Costa Rica (BID, 2024 - En desarrollo)
+- Dirección del equipo consultor para Costa Rica (BID, 2024)
 
 **Proyectos de políticas públicas y planes nacionales:**
 - Evaluación de operaciones y resultados del transporte de carga pesada por carretera en Colombia (DNP, 2023-2024)
@@ -87,7 +87,7 @@ Firma especializada en consultoría estratégica y análisis aplicado en transpo
 ### ATIEMPPO S.A.S. — Fundador y CEO
 *2013 – Actualidad · Bogotá, Colombia*
 
-Empresa enfocada en el diseño y desarrollo de soluciones digitales y analíticas aplicadas a logística, transporte y operaciones comerciales, cerrando la brecha entre la estrategia, los datos y la operación real.
+Empresa enfocada en ayudar a equipos de transporte y logística a decidir mejor mediante consultoría, aplicaciones, información y aprendizaje aplicado. ATIEMPPO conecta la estrategia, los datos, la inteligencia artificial y la operación real.
 
 Liderazgo de procesos de transformación digital aplicada, acompañando a empresas y entidades públicas en la adopción de herramientas para captura de información en campo, análisis operativo y soporte a la toma de decisiones.
 
@@ -95,7 +95,15 @@ Liderazgo de procesos de transformación digital aplicada, acompañando a empres
 - Soluciones implementadas para AJE Colombia, Haleon, Galderma y Coca-Cola
 - **Proyecto Imán Mágico** para Coca-Cola — Reconocido a nivel regional por su enfoque innovador y su impacto operativo
 - Plataformas para gestión logística, enturnamiento, seguimiento operativo y análisis de desempeño
-- Exploración de analítica avanzada, automatización e inteligencia artificial como habilitadores de eficiencia
+
+**Trabajo actual:**
+- Desarrollo de ATICA y SICETAC al Instante para conectar conocimiento de transporte y consultas de costos por ruta
+- Diseño de Novedades en Vías y Reportes Vivos para seguimiento de corredores, análisis e interpretación de datos
+- Desarrollo de El Dato Logístico como proyecto editorial con fuentes, curaduría y análisis sectorial
+- Diseño de formación aplicada con Profe Bruno y ATIEMPPO Lab; experimentación docente con acompañamiento de IA
+- Desarrollo de Bruno y un banco de conocimiento para coordinar trabajo y reutilizar fuentes, métodos y aprendizajes con revisión humana
+
+[Ver mi aporte, enlaces y estado de cada proyecto](/proyectos).
 
 ---
 

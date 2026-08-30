@@ -1,9 +1,9 @@
 ---
-title: "Juan Pablo Matiz - Consultor Senior en Logística y Transporte"
+title: "Juan Pablo Matiz — Docente, investigador aplicado y consultor senior"
 layout: default
 seo:
-  tldr: "Juan Pablo Matiz: Economista con 25+ años en logística, transporte y consultoría estratégica en América Latina. Fundador de Atiemppo e Imétrica. Proyectos con BID, CEPAL, Banco Mundial."
-  description: "Sitio profesional de Juan Pablo Matiz. Consultor senior en logística, transporte y cadenas de suministro en América Latina."
+  tldr: "Juan Pablo Matiz ayuda a equipos de transporte y logística a decidir mejor. Docente, investigador aplicado, speaker y consultor senior. Fundador de ATIEMPPO, con más de 25 años de experiencia en América Latina."
+  description: "Sitio profesional de Juan Pablo Matiz: docente, investigador aplicado, speaker y consultor senior para equipos de transporte y logística en América Latina."
 aiContext:
   topic: "Professional Profile, Logistics Consulting"
   industry: "Logistics, Transport, Supply Chain, Public Policy"
@@ -25,12 +25,12 @@ canonical: "https://juanmatiz.com/"
     <div class="hero-text">
       <div class="hero-badge">
         <i data-lucide="map-pin"></i>
-        Bogotá, Colombia
+        Bogotá, Colombia · América Latina
       </div>
       <h1>Juan Pablo Matiz</h1>
-      <p class="hero-role">Economista | Consultor Senior en Transporte y Logística | Fundador</p>
+      <p class="hero-role">Docente | Investigador aplicado | Speaker | Consultor senior</p>
       <p class="hero-desc">
-        Más de 25 años transformando la logística y el transporte en América Latina. Fundador de Atiemppo e Imétrica, con proyectos liderados para el BID, CEPAL, Banco Mundial y C40.
+        Ayudo a equipos de transporte y logística a decidir mejor. Soy fundador de ATIEMPPO y trabajo en América Latina conectando experiencia sectorial, investigación aplicada, datos y capacidades que llegan a la operación.
       </p>
       <div class="hero-ctas">
         <a href="/sobre-mi" class="btn btn-primary">
@@ -75,8 +75,8 @@ canonical: "https://juanmatiz.com/"
           </div>
         </div>
         <ul class="org-list">
-          <li><i data-lucide="building-2"></i> Imétrica</li>
-          <li><i data-lucide="rocket"></i> Atiemppo</li>
+          <li><i data-lucide="building-2"></i> Imétrica · trayectoria</li>
+          <li><i data-lucide="rocket"></i> ATIEMPPO</li>
           <li><i data-lucide="sparkles"></i> Insignia</li>
           <li><i data-lucide="graduation-cap"></i> U. del Rosario</li>
         </ul>
@@ -107,22 +107,52 @@ canonical: "https://juanmatiz.com/"
       <div class="card animate-on-scroll">
         <div class="card-icon gold"><i data-lucide="bar-chart-3"></i></div>
         <h3>Encuestas Nacionales de Logística</h3>
-        <p>Dirección de encuestas nacionales en Colombia, Bolivia, Perú, Ecuador, Paraguay y Costa Rica para el BID, DNP y ministerios nacionales.</p>
+        <p>Dirección en Bolivia, Perú, Ecuador y Costa Rica; participación en Colombia y Paraguay. Investigación para comprender el desempeño logístico y orientar decisiones.</p>
       </div>
       <div class="card animate-on-scroll">
         <div class="card-icon dark"><i data-lucide="cpu"></i></div>
-        <h3>Transformación Digital</h3>
-        <p>Diseño de soluciones digitales y analíticas aplicadas a logística y transporte. Plataformas de captura de datos, análisis operativo y toma de decisiones.</p>
+        <h3>Investigación aplicada y datos</h3>
+        <p>Convierto preguntas de transporte y logística en evidencia, análisis y recomendaciones útiles para decidir y actuar.</p>
       </div>
       <div class="card animate-on-scroll">
         <div class="card-icon green"><i data-lucide="leaf"></i></div>
-        <h3>Sostenibilidad y Descarbonización</h3>
-        <p>Apoyo a programas de logística urbana sostenible, modernización de flotas y estrategias de ecologística en colaboración con C40 e ICLEI.</p>
+        <h3>Docencia, conferencias y talleres</h3>
+        <p>Comparto conocimiento con equipos, empresarios, gerentes y estudiantes mediante clases, conferencias y experiencias de aprendizaje aplicado.</p>
       </div>
       <div class="card animate-on-scroll">
         <div class="card-icon" style="background: linear-gradient(135deg, #7c3aed, #a78bfa);"><i data-lucide="sparkles"></i></div>
         <h3>Insignia — Marca Personal</h3>
         <p>Metodología propia para ayudar a profesionales y líderes a construir, posicionar y potenciar su marca personal de manera estratégica y auténtica.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CURRENT PROJECTS -->
+<section class="section">
+  <div class="wrapper">
+    <div class="section-header">
+      <h2>Lo que estoy construyendo en ATIEMPPO</h2>
+      <p class="subtitle">Proyectos que conectan criterio, datos y trabajo aplicado</p>
+    </div>
+    <div class="cards-grid">
+      <div class="card animate-on-scroll">
+        <div class="card-icon blue"><i data-lucide="truck"></i></div>
+        <h3>Costos, rutas y decisiones</h3>
+        <p>Desarrollo SICETAC al Instante, Novedades en Vías y Reportes Vivos para consultar referencias, seguir cambios y comparar escenarios.</p>
+        <a href="/proyectos#sicetac">Ver estos proyectos →</a>
+      </div>
+      <div class="card animate-on-scroll">
+        <div class="card-icon gold"><i data-lucide="book-open"></i></div>
+        <h3>Conocimiento sectorial</h3>
+        <p>Con El Dato Logístico conecto fuentes, análisis y criterio editorial. Con Bruno y el banco de conocimiento organizo lo aprendido para reutilizarlo.</p>
+        <a href="/proyectos#el-dato-logistico">Conocer el trabajo editorial →</a>
+      </div>
+      <div class="card animate-on-scroll">
+        <div class="card-icon green"><i data-lucide="graduation-cap"></i></div>
+        <h3>Aprendizaje aplicado</h3>
+        <p>En docencia, Profe Bruno y ATIEMPPO Lab llevo casos reales a clases y talleres para aprender a preguntar, verificar y decidir.</p>
+        <a href="/proyectos#profe-bruno">Explorar la formación →</a>
       </div>
     </div>
   </div>
@@ -155,7 +185,7 @@ canonical: "https://juanmatiz.com/"
   <div class="wrapper">
     <div class="section-header">
       <h2>Presencia Regional</h2>
-      <p class="subtitle">Encuestas Nacionales de Logística dirigidas en América Latina</p>
+      <p class="subtitle">Encuestas Nacionales de Logística en las que he trabajado</p>
     </div>
     <div class="clients-row">
       <div class="client-item">Colombia 2015</div>

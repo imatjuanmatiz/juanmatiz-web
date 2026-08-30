@@ -1,5 +1,5 @@
 title: "Juan Pablo Matiz"
-description: "Economista y Consultor Senior en Logística, Transporte y Cadenas de Suministro en América Latina"
+description: "Ayudo a equipos de transporte y logística a decidir mejor. Docente, investigador aplicado, speaker y consultor senior en América Latina."
 url: "https://juanmatiz.com"
 baseurl: ""
 author:
@@ -48,3 +48,4 @@ exclude:
   - .github/
   - Gemfile
   - Gemfile.lock
+  - docs/

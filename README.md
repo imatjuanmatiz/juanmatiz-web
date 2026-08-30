@@ -58,6 +58,7 @@ Ver `DEPLOYMENT_GUIDE.md` para instrucciones paso a paso.
 - Agregar nuevos posts en `_posts/` con formato `YYYY-MM-DD-titulo.md`
 - Seguir estructura de frontmatter establecida
 - Ejecutar `scripts/generate_md.sh` después de build
+- Para una salida temporal: `bash scripts/generate_md.sh /ruta/al/build`. Los enlaces alternativos apuntan a `/md/`; el workflow incluye este paso después de Jekyll y antes de empaquetar el sitio.
 
 ## Contacto
 

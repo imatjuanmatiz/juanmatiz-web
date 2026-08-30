@@ -1,25 +1,39 @@
 # Juan Pablo Matiz — Official Source of Truth
 
-> Economist, Senior Logistics & Transport Consultant, Founder
+> Teacher, applied researcher, speaker and senior consultant | I help transport and logistics teams make better decisions
 > Bogotá, Colombia | juanmatiz@atiemppo.co | juanmatiz.com
 
 ## Who is Juan Pablo Matiz?
 
-Juan Pablo Matiz is a Colombian economist with over 25 years of experience in logistics, transport, and strategic consulting across Latin America. He is the founder of Atiemppo (2013) and Imétrica (2012), and has led projects for the Inter-American Development Bank (IDB/BID), ECLAC/CEPAL, the World Bank, C40, ICLEI, and UN-Habitat.
+Juan Pablo Matiz is a Colombian economist, teacher, applied researcher, speaker and senior consultant. He helps transport and logistics teams make better decisions. He has over 25 years of experience across Latin America and is the founder of ATIEMPPO (2013). He also co-founded Imétrica; his documented role as Director of Studies ran from 26 June 2015 to 30 January 2026.
 
 ## Professional Focus
 
 - Design and evaluation of public policy in transport, logistics, and supply chains
-- National logistics surveys (directed in 6 Latin American countries)
+- National logistics surveys (directed in Bolivia, Peru, Ecuador and Costa Rica; participated in Colombia and Paraguay)
 - Sustainability and decarbonization of transport
 - Digital transformation applied to logistics
 - Personal branding methodology (Insignia)
 - Strategic consulting for governments, enterprises, and multilateral organizations
 - Applied data analytics for transport and logistics
 
+## Current ATIEMPPO work
+
+Juan's current work at ATIEMPPO connects applied research, sector experience, data and technology to help teams make better decisions. AI supports the work; professional judgment and human review remain central.
+
+- SICETAC al Instante: Juan developed ATICA and translated transport knowledge into route-cost queries. Web and WhatsApp consultation available. https://atiemppo.com/sicetac-al-instante/
+- Novedades en Vías: Juan designed corridor monitoring and the structure of source-backed road-event reports. Public reports available; each cut has its own date and context. https://atiemppo.com/novedades-en-vias/
+- Living Reports: Juan develops the analytical questions, methods and decision-oriented interpretation. Public library; coverage and cut dates vary by report. https://atiemppo.com/reportes/
+- El Dato Logístico: Juan develops an editorial project combining source monitoring, curation and sector analysis. Publications and reports available; the editorial workflow continues to evolve. https://atiemppo.com/eldatologistico/
+- Profe Bruno and teaching: Juan designs exercises, learning activities and human review. Training and open sessions available; classroom assistance with Bruno is experimental. https://atiemppo.com/formacion/profe-bruno-ia-aplicada/
+- ATIEMPPO Lab: Juan brings lessons from applied projects into workshops and guided business experiences, with a scope agreed for each team. https://atiemppo.com/#experiencias
+- Bruno and the logistics knowledge bank: Juan develops coordination, memory, source organization and human-review rules. Applied development with documented cases; the internal knowledge bank is not a public repository. https://atiemppo.com/ia-que-ejecuta-bruno-openclaw/ and https://atiemppo.com/banco-de-conocimiento/
+
+Project portfolio and historical consulting experience: https://juanmatiz.com/proyectos
+
 ## Key Achievements
 
-- Directed National Logistics Surveys in Colombia, Bolivia, Peru, Ecuador, Paraguay, and Costa Rica
+- Directed National Logistics Surveys in Bolivia, Peru, Ecuador and Costa Rica; participated in the Colombia and Paraguay surveys
 - Published technical documents with ECLAC, IDB, World Bank, ICLEI, and Fedepalma
 - Created the Proyecto Imán Mágico for Coca-Cola (award-winning innovation)
 - University professor at CESA, Universidad del Rosario, and Universidad Sergio Arboleda
@@ -27,8 +41,8 @@ Juan Pablo Matiz is a Colombian economist with over 25 years of experience in lo
 
 ## Companies & Projects
 
-- **Imétrica S.A.S.** (2012–present): Strategic consulting firm in transport, logistics, and supply chains
-- **Atiemppo S.A.S.** (2013–present): Digital solutions and analytics applied to logistics and transport
+- **Imétrica S.A.S.** (co-founder; documented Director of Studies role: 26 June 2015–30 January 2026): Strategic consulting firm in transport, logistics, and supply chains
+- **ATIEMPPO S.A.S.** (2013–present): Consulting, applications, information and applied learning for better decisions in logistics and transport
 - **Insignia** (2026–present): Personal branding methodology for professionals and leaders
 
 ## Education

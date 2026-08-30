@@ -2,8 +2,8 @@
 title: "Sobre Juan Pablo Matiz"
 layout: default
 seo:
-  tldr: "Economista con 25+ años en logística LatAm. Fundador Atiemppo e Imétrica. Creador de Insignia, metodología de marca personal. Experto en consultoría estratégica, políticas públicas, transformación digital."
-  description: "Biografía profesional de Juan Pablo Matiz. Consultor senior en logística, transporte y cadenas de suministro en América Latina."
+  tldr: "Juan Pablo Matiz ayuda a equipos de transporte y logística a decidir mejor. Docente, investigador aplicado, speaker y consultor senior. Fundador de ATIEMPPO y experto en logística, transporte y datos en América Latina."
+  description: "Biografía profesional de Juan Pablo Matiz, docente, investigador aplicado, speaker y consultor senior para equipos de transporte y logística en América Latina."
 aiContext:
   topic: "Biografía Profesional"
   region: "Colombia, América Latina"
@@ -22,9 +22,9 @@ canonical: "https://juanmatiz.com/sobre-mi"
 
 ## Trayectoria
 
-Papá de Alejandro. Economista con más de 25 años de experiencia en logística, transporte y consultoría estratégica en América Latina. Mi trayectoria combina trabajo directo con entidades gubernamentales, organismos multilaterales, gremios empresariales y sector privado, con un fuerte énfasis en coordinación interinstitucional, producción de insumos técnicos y apoyo a procesos de implementación.
+Ayudo a equipos de transporte y logística a decidir mejor. Soy docente, investigador aplicado, speaker y consultor senior. Papá de Alejandro y economista con más de 25 años de experiencia en logística, transporte y consultoría estratégica en América Latina, mi trayectoria combina trabajo directo con entidades gubernamentales, organismos multilaterales, gremios empresariales y sector privado.
 
-Soy fundador de **Atiemppo** (2013) e **Imétrica** (2012), empresas especializadas en consultoría estratégica, investigación aplicada, analítica de datos y desarrollo de soluciones tecnológicas para el sector logístico.
+Soy fundador de **ATIEMPPO** (2013). También participé como cofundador de **Imétrica**; el cargo documentado de Director de Estudios allí abarca del 26 de junio de 2015 al 30 de enero de 2026. Son trayectorias distintas y complementarias: ATIEMPPO desarrolla consultoría, aplicaciones, información y experiencias de aprendizaje para transporte y logística; Imétrica concentra la trayectoria histórica de consultoría estratégica e investigación aplicada.
 
 ## Enfoque de trabajo
 
@@ -36,9 +36,13 @@ He participado activamente en iniciativas de modernización del transporte de ca
 
 He liderado proyectos estratégicos para organizaciones como el **Banco Interamericano de Desarrollo (BID)**, **Banco Mundial**, **CEPAL** y **C40**, y soy referente regional en analítica de datos del transporte.
 
-He dirigido **Encuestas Nacionales de Logística** en seis países de América Latina: Colombia (2015), Bolivia (2018-2019), Perú (2020-2021), Paraguay (2012-2013), Ecuador (2023) y Costa Rica (2024).
+He participado en la implementación de **Encuestas Nacionales de Logística** en seis países de América Latina. Tuve funciones de dirección en Bolivia (2018-2019), Perú (2020-2021), Ecuador (2023) y Costa Rica (2024); participé en las de Colombia (2015) y Paraguay (2012-2013).
 
 También he liderado la elaboración de planes nacionales de logística, estrategias de ecologística, evaluaciones de políticas públicas y proyectos de modernización del transporte en la región.
+
+Hoy, desde ATIEMPPO, desarrollo SICETAC al Instante, Novedades en Vías, Reportes Vivos y El Dato Logístico. Con Profe Bruno y ATIEMPPO Lab llevo esos aprendizajes a clases y talleres. Bruno y el banco de conocimiento apoyan la continuidad del trabajo: fuentes, contexto y aprendizajes que se pueden volver a consultar.
+
+[Conoce mi aporte y el estado de cada proyecto](/proyectos).
 
 ## Insignia — Metodología de Marca Personal
 
@@ -46,7 +50,7 @@ Soy el creador de **Insignia**, una metodología diseñada para ayudar a profesi
 
 ## Innovación tecnológica
 
-Apasionado por la tecnología aplicada, desde Atiemppo he liderado procesos de transformación digital, acompañando a empresas y entidades públicas en la adopción de herramientas para captura de información en campo, análisis operativo y soporte a la toma de decisiones.
+Apasionado por la tecnología aplicada, desde ATIEMPPO he liderado procesos de transformación digital, acompañando a empresas y entidades públicas en la adopción de herramientas para captura de información en campo, análisis operativo y soporte a la toma de decisiones.
 
 He desarrollado proyectos para empresas como AJE Colombia, Haleon, Galderma y Coca-Cola, incluyendo el **Proyecto Imán Mágico**, reconocido a nivel regional por su enfoque innovador y su impacto operativo.
 
