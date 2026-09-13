@@ -38,6 +38,20 @@ Fundador de [ATIEMPPO](https://atiemppo.com/). Docente, investigador aplicado y 
 
 Keynote, panel, moderación y taller cerrado con equipo directivo. Duración y profundidad se acuerdan con el organizador.
 
+## Próxima por venir
+
+### VIII Seminario en Logística y Transporte
+
+**Oportunidades para conectar mercados** — Impacto de la Logística 5.0: transformación digital, transporte e infraestructura en Antioquia.
+
+- **Cuándo:** 29 de septiembre de 2026 · 8:00 a. m. a 12:30 p. m.
+- **Dónde:** Cámara de Comercio Aburrá Sur — Sede Envigado · Calle 39 Sur Nº 40 - 45
+- **Temas:** IA y transformación digital · Puerto Antioquia, 4G y Aeropuerto JMC · logística multimodal (del puerto al aeropuerto y de Antioquia al mundo)
+- **Organiza:** CEIPA · OIER · Comfama · Cámara de Comercio Aburrá Sur
+- **Apoya:** Fenalco Antioquia · El Dato Logístico · ATIEMPPO
+
+[Inscríbete sin costo](https://forms.cloud.microsoft/r/cC5xw8FfbE)
+
 ## Conferencias internacionales y presencia regional
 
 He participado como conferencista, panelista y moderador en foros de **transporte, logística, datos e inteligencia artificial** en varios países de América Latina, y en espacios gremiales y académicos en Colombia.
@@ -48,10 +62,9 @@ Hablo desde la experiencia aplicada: no desde un guion genérico de “transform
 
 ### Lista viva de charlas
 
-*(Completar con fecha, ciudad/país y título exacto de cada evento confirmado.)*
-
 | Evento / espacio | País | Rol | Temas |
 | --- | --- | --- | --- |
+| **VIII Seminario en Logística y Transporte** (29 sep 2026, Envigado) — *próxima* | Colombia | Conferencia / panel | Logística 5.0, IA, Puerto Antioquia, multimodal |
 | Congreso Colfecar | Colombia | Moderación / panel | Tecnología e innovación en transporte |
 | Jornada / congresos ANALDEX–EXLOG | Colombia | Panel | Datos, costos y decisión logística |
 | Foros y talleres con multilaterales y gobiernos | América Latina | Conferencia / taller | Política logística, encuestas, evidencia |
