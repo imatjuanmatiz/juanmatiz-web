@@ -70,6 +70,20 @@ Conversaciones sobre transporte, datos y decisiones desde el Caribe colombiano.
 Jornada en el Valle: productividad, datos e IA conectados a la operación regional.  
 [Nota ATIEMPPO](https://atiemppo.com/blog/colfecar-en-tu-region-cali/)
 
+## Este año · ANALDEX / EXLOG Bogotá
+
+### XXII Congreso Internacional de Logística · EXLOG 2026
+
+**4–5 de agosto de 2026** · Ágora Bogotá Centro de Convenciones · organizado en el marco de EXLOG por ANALDEX.
+
+Conferencia: **«Transporte terrestre de carga: Presión a los costos logísticos»** (CEO ATIEMPPO).
+
+Enfoque verificado en agenda y promoción ANALDEX: hiperregulación y datos dispersos; calidad de datos para modelar rutas; capacidades analíticas e IA; impacto SICETAC según red de rutas largas o cortas — el promedio general no sirve para presupuestos.
+
+- [Evento ANALDEX](https://analdex.org/events/47588/)
+- [EXLOG](https://exlog.com.co/)
+- [Agenda académica (PDF)](https://exlog.com.co/wp-content/uploads/2026/07/AGENDA-ACADEMICA-15_compressed.pdf)
+
 ## Conferencias internacionales y presencia regional
 
 He participado como conferencista, panelista y moderador en foros de **transporte, logística, datos e inteligencia artificial** en varios países de América Latina, y en espacios gremiales y académicos en Colombia.
@@ -83,10 +97,10 @@ Hablo desde la experiencia aplicada: no desde un guion genérico de “transform
 | Evento / espacio | País | Rol | Temas |
 | --- | --- | --- | --- |
 | **VIII Seminario en Logística y Transporte** (29 sep 2026, Envigado) — *próxima* | Colombia | Conferencia / panel | Logística 5.0, IA, Puerto Antioquia, multimodal |
+| **EXLOG / XXII Congreso ANALDEX** (4–5 ago 2026, Bogotá) | Colombia | Conferencia | Costos y datos del transporte · SICETAC · «Presión a los costos logísticos» |
 | **COLFECAR en tu Región — Barranquilla** (23 jul 2026) | Colombia | Conferencia | Agentes e IA: «Pasa de Chatear a dirigir tu equipo de Agentes» |
 | **COLFECAR en tu Región — Cali** (28 jul 2026) | Colombia | Conferencia | Agentes e IA · datos y decisión en región |
 | Congreso Colfecar (ediciones nacionales) | Colombia | Moderación / panel | Tecnología e innovación en transporte |
-| Jornada / congresos ANALDEX–EXLOG | Colombia | Panel | Datos, costos y decisión logística |
 | Foros y talleres con multilaterales y gobiernos | América Latina | Conferencia / taller | Política logística, encuestas, evidencia |
 | Docencia y sesiones abiertas (CESA y otros) | Colombia | Conferencia / clase | IA aplicada, criterio y operación |
 
