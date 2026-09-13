@@ -52,6 +52,24 @@ Keynote, panel, moderación y taller cerrado con equipo directivo. Duración y p
 
 [Inscríbete sin costo](https://forms.cloud.microsoft/r/cC5xw8FfbE)
 
+## Este año · COLFECAR en tu Región
+
+En julio de 2026 participé en la gira **COLFECAR en tu Región**, invitados por COLFECAR y Nidia Hernández Jiménez, con la conferencia **«Pasa de Chatear a dirigir tu equipo de Agentes»** — agentes e IA aplicada al liderazgo de equipos (no solo dato logístico).
+
+### Barranquilla · 23 de julio de 2026
+
+![Juan Pablo Matiz en COLFECAR en tu Región, Barranquilla](https://atiemppo.com/assets/images/blog/colfecar-en-tu-region-barranquilla/juan-pablo-matiz-colfecar-barranquilla.jpg)
+
+Conversaciones sobre transporte, datos y decisiones desde el Caribe colombiano.  
+[Nota ATIEMPPO](https://atiemppo.com/blog/colfecar-en-tu-region-barranquilla/)
+
+### Cali · 28 de julio de 2026
+
+![Juan Pablo Matiz en COLFECAR en tu Región, Cali](https://atiemppo.com/assets/images/blog/colfecar-en-tu-region-cali/juan-pablo-matiz-colfecar-cali.jpg)
+
+Jornada en el Valle: productividad, datos e IA conectados a la operación regional.  
+[Nota ATIEMPPO](https://atiemppo.com/blog/colfecar-en-tu-region-cali/)
+
 ## Conferencias internacionales y presencia regional
 
 He participado como conferencista, panelista y moderador en foros de **transporte, logística, datos e inteligencia artificial** en varios países de América Latina, y en espacios gremiales y académicos en Colombia.
@@ -65,7 +83,9 @@ Hablo desde la experiencia aplicada: no desde un guion genérico de “transform
 | Evento / espacio | País | Rol | Temas |
 | --- | --- | --- | --- |
 | **VIII Seminario en Logística y Transporte** (29 sep 2026, Envigado) — *próxima* | Colombia | Conferencia / panel | Logística 5.0, IA, Puerto Antioquia, multimodal |
-| Congreso Colfecar | Colombia | Moderación / panel | Tecnología e innovación en transporte |
+| **COLFECAR en tu Región — Barranquilla** (23 jul 2026) | Colombia | Conferencia | Agentes e IA: «Pasa de Chatear a dirigir tu equipo de Agentes» |
+| **COLFECAR en tu Región — Cali** (28 jul 2026) | Colombia | Conferencia | Agentes e IA · datos y decisión en región |
+| Congreso Colfecar (ediciones nacionales) | Colombia | Moderación / panel | Tecnología e innovación en transporte |
 | Jornada / congresos ANALDEX–EXLOG | Colombia | Panel | Datos, costos y decisión logística |
 | Foros y talleres con multilaterales y gobiernos | América Latina | Conferencia / taller | Política logística, encuestas, evidencia |
 | Docencia y sesiones abiertas (CESA y otros) | Colombia | Conferencia / clase | IA aplicada, criterio y operación |
