@@ -3,7 +3,7 @@ title: "Juan Pablo Matiz — Docente, investigador aplicado y consultor senior"
 layout: default
 seo:
   tldr: "Juan Pablo Matiz ayuda a equipos de transporte y logística a decidir mejor. Docente, investigador aplicado, speaker y consultor senior. Fundador de ATIEMPPO, con más de 25 años de experiencia en América Latina."
-  description: "Sitio profesional de Juan Pablo Matiz: docente, investigador aplicado, speaker y consultor senior para equipos de transporte y logística en América Latina."
+  description: "Sitio oficial de Juan Pablo Matiz (Juan Matiz), docente, investigador aplicado, conferencista y consultor senior. Experto en logística y transporte, y fundador de ATIEMPPO."
 aiContext:
   topic: "Professional Profile, Logistics, Data and Applied AI"
   industry: "Logistics, Transport, Supply Chain, Public Policy, Applied AI"
@@ -28,7 +28,7 @@ canonical: "https://juanmatiz.com/"
         Bogotá, Colombia · América Latina
       </div>
       <h1>Juan Pablo Matiz</h1>
-      <p class="hero-role">Docente | Investigador aplicado | Speaker | Consultor senior</p>
+      <p class="hero-role">Docente | Investigador aplicado | Conferencista / Speaker | Consultor senior</p>
       <p class="hero-desc">
         Ayudo a equipos de transporte y logística a decidir mejor. Soy fundador de ATIEMPPO y trabajo en América Latina conectando experiencia sectorial, investigación aplicada, datos y capacidades que llegan a la operación.
       </p>
@@ -40,6 +40,10 @@ canonical: "https://juanmatiz.com/"
         <a href="https://atiemppo.com/" class="btn btn-outline" target="_blank" rel="noopener">
           <i data-lucide="external-link"></i>
           Visitar Atiemppo
+        </a>
+        <a href="/conferencias" class="btn btn-outline">
+          <i data-lucide="mic"></i>
+          Invitarme como conferencista
         </a>
       </div>
       <div class="hero-stats">
@@ -145,6 +149,7 @@ canonical: "https://juanmatiz.com/"
         <div class="card-icon green"><i data-lucide="leaf"></i></div>
         <h3>Docencia, conferencias y talleres</h3>
         <p>Comparto conocimiento con equipos, empresarios, gerentes y estudiantes mediante clases, conferencias y experiencias de aprendizaje aplicado.</p>
+        <p><a href="/conferencias">Conocer mis conferencias en logística</a></p>
       </div>
       <div class="card animate-on-scroll">
         <div class="card-icon" style="background: linear-gradient(135deg, #0f766e, #14b8a6);"><i data-lucide="mic"></i></div>

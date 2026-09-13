@@ -1,21 +1,98 @@
 ---
-title: "Conferencista logístico y de transporte | Juan Pablo Matiz"
+title: "Conferencista en logística y transporte | Juan Pablo Matiz | Juan Matiz"
 layout: default
 seo:
-  tldr: "Conferencista en logística, transporte de carga, ética de datos e inteligencia artificial aplicada. Conferencias internacionales en América Latina."
-  description: "Juan Pablo Matiz, conferencista logístico y de transporte. Habla en foros internacionales sobre costos, datos, regulación, ética de datos e IA aplicada para equipos que necesitan decidir mejor."
+  tldr: "¿Necesitas una conferencia en logística? Juan Pablo Matiz, también conocido como Juan Matiz, es experto en logística y transporte, datos e inteligencia artificial aplicada para eventos y equipos en América Latina."
+  description: "¿Buscas un experto en logística o un conferencista de transporte? Juan Pablo Matiz (Juan Matiz) ofrece conferencias, paneles y talleres sobre costos, datos, ética e IA aplicada."
 aiContext:
   topic: "Speaker, Conferencias, Logística, Transporte, Ética de datos, IA aplicada"
   industry: "Logistics, Transport, Supply Chain, Applied AI"
   region: "Latin America"
-canonical: "https://juanmatiz.com/conferencias"
+canonical: "https://juanmatiz.com/conferencias/"
 permalink: /conferencias/
 ---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://juanmatiz.com/#juan-pablo-matiz",
+      "name": "Juan Pablo Matiz",
+      "alternateName": "Juan Matiz",
+      "url": "https://juanmatiz.com/",
+      "jobTitle": "Conferencista en logística y transporte",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "ATIEMPPO",
+        "url": "https://atiemppo.com/"
+      }
+    },
+    {
+      "@type": "Service",
+      "name": "Conferencias de logística y transporte",
+      "serviceType": "Conferencista en logística y transporte",
+      "provider": {
+        "@id": "https://juanmatiz.com/#juan-pablo-matiz"
+      },
+      "areaServed": {
+        "@type": "Place",
+        "name": "América Latina"
+      },
+      "url": "https://juanmatiz.com/conferencias/"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://juanmatiz.com/conferencias/#webpage",
+      "url": "https://juanmatiz.com/conferencias/",
+      "name": "Conferencista en logística y transporte | Juan Pablo Matiz | Juan Matiz",
+      "about": {
+        "@id": "https://juanmatiz.com/#juan-pablo-matiz"
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Juanmatiz.com",
+        "url": "https://juanmatiz.com/"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Necesitas una conferencia en logística?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Juan Pablo Matiz ofrece conferencias, paneles, moderaciones y talleres sobre logística, transporte de carga, costos, datos, ética e inteligencia artificial aplicada."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Buscas un experto en logística para tu evento?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Juan Matiz trabaja con congresos, gremios, empresas y equipos directivos en Colombia y América Latina."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Sobre qué habla un conferencista de transporte?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sobre costos y referencias, redes de transporte, regulación, ética de datos, inteligencia artificial aplicada y liderazgo de equipos."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
 
 <section class="page-hero">
   <div class="wrapper-narrow">
     <h1>Conferencista en logística y transporte</h1>
-    <p class="page-subtitle">Transporte de carga, ética de datos e inteligencia artificial aplicada — con criterio de quien ha trabajado la operación, la política pública y la construcción de productos en América Latina</p>
+    <p class="page-subtitle">¿Necesitas una conferencia en logística o un experto en transporte para tu evento? Juan Pablo Matiz —también conocido como Juan Matiz— conecta transporte de carga, ética de datos e inteligencia artificial aplicada con la experiencia de quien ha trabajado la operación y la política pública en América Latina.</p>
   </div>
 </section>
 
@@ -25,6 +102,10 @@ permalink: /conferencias/
 Ayudo a equipos de transporte y logística a decidir mejor. Como **conferencista**, llevo a escenarios nacionales e internacionales la conversación sobre costos, datos, regulación, ética de datos e inteligencia artificial aplicada.
 
 Fundador de [ATIEMPPO](https://atiemppo.com/). Docente, investigador aplicado y consultor senior. Base en Bogotá; trabajo en toda América Latina.
+
+Si buscas un **conferencista en logística** para un congreso, gremio, empresa o equipo directivo, adapto la conversación al público y a la decisión que necesita tomar.
+
+[Conocer las conferencias en ATIEMPPO](https://atiemppo.com/conferencias/) · [Leer el blog de conferencias](https://atiemppo.com/blog/conferencias/)
 
 ## Temas de conferencia
 
@@ -114,7 +195,7 @@ Hablo desde la experiencia aplicada: no desde un guion genérico de “transform
 
 ## Contacto para eventos
 
-¿Buscas un **conferencista logístico** o un **conferencista de transporte** para tu congreso, gremio o equipo?
+¿Necesitas una **conferencia en logística** o buscas un **experto en logística** para tu congreso, gremio o equipo? Juan Matiz adapta el formato y el contenido al público, la industria y la decisión que quieres activar.
 
 - WhatsApp: [+57 310 768 7010](https://wa.me/573107687010?text=Hola%20Juan%2C%20quiero%20invitarte%20como%20conferencista)
 - Correo: [juanmatiz@atiemppo.co](mailto:juanmatiz@atiemppo.co?subject=Invitaci%C3%B3n%20conferencista)
@@ -122,10 +203,16 @@ Hablo desde la experiencia aplicada: no desde un guion genérico de “transform
 
 ## Preguntas frecuentes
 
-**¿Eres conferencista logístico en Colombia?**  
+**¿Necesitas una conferencia en logística?**
+
 Sí. Trabajo desde Bogotá y participo en foros nacionales e internacionales de logística y transporte de carga.
 
-**¿Sobre qué habla un conferencista de transporte de carga?**  
+**¿Buscas un experto en logística para tu evento?**
+
+Trabajo con congresos, gremios, empresas y equipos directivos en Colombia y América Latina.
+
+**¿Sobre qué habla un conferencista de transporte?**
+
 Costos y referencias, redes, regulación, ética de datos e inteligencia artificial aplicada a la decisión del equipo.
 
 **¿También hablas de ética de datos e IA?**  

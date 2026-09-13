@@ -2,14 +2,14 @@
 layout: page
 title: Blog
 permalink: /blog/
-description: Publicaciones, notas y hubs editoriales actuales de Juan Pablo Matiz.
+description: Publicaciones, notas y hubs editoriales de Juan Pablo Matiz sobre logística, transporte, datos, IA aplicada y conferencias.
 ---
 
 <section class="blog-listing">
   <div class="wrapper-narrow">
     <p class="post-kicker">Publicaciones</p>
     <h2 style="margin-bottom:10px">Escritura actual y archivo</h2>
-    <p style="color:var(--text-secondary);margin-bottom:18px">Este sitio personal funciona como hub. Mi escritura más activa hoy vive en El Dato Logístico y en el laboratorio editorial de Atiemppo.</p>
+    <p style="color:var(--text-secondary);margin-bottom:18px">Este sitio personal funciona como hub. Mi escritura más activa hoy vive en El Dato Logístico, en el laboratorio editorial de Atiemppo y en el trabajo que acompaña mis conferencias.</p>
 
     <div class="cards-grid" style="margin-bottom:40px">
       <div class="card">
@@ -23,6 +23,12 @@ description: Publicaciones, notas y hubs editoriales actuales de Juan Pablo Mati
         <h3>Blog de Atiemppo</h3>
         <p>Notas sobre productos, agentes, automatizaciones, implementación y proyectos vivos conectados con logística e IA.</p>
         <p><a href="https://atiemppo.com/blog/" target="_blank" rel="noopener">Ir al blog</a></p>
+      </div>
+      <div class="card">
+        <div class="card-icon gold"><i data-lucide="mic"></i></div>
+        <h3>Conferencias de logística</h3>
+        <p>Temas, experiencias y notas de Juan Pablo Matiz como conferencista en logística, transporte, datos e IA aplicada.</p>
+        <p><a href="/conferencias">Ver conferencias</a> · <a href="https://atiemppo.com/blog/conferencias/" target="_blank" rel="noopener">Blog de conferencias en ATIEMPPO</a></p>
       </div>
     </div>
 

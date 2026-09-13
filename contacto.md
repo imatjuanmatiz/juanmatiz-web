@@ -95,7 +95,7 @@ canonical: "https://juanmatiz.com/contacto"
 
 ## Ecosistema actual
 
-**ATIEMPPO S.A.S.** — Consultoría, aplicaciones, información y aprendizaje para logística y transporte · [atiemppo.com](https://atiemppo.com)
+**ATIEMPPO S.A.S.** — Consultoría, aplicaciones, información y aprendizaje para logística y transporte · [atiemppo.com](https://atiemppo.com) · [Conferencias](https://atiemppo.com/conferencias/)
 
 **El Dato Logístico** — Newsletter y archivo editorial sobre logística, transporte, datos e IA · [eldatologistico.com](https://www.eldatologistico.com/authors/juan-pablo-matiz)
 
@@ -117,7 +117,7 @@ Disponible para:
 
 ---
 
-[Ver mi perfil completo](/sobre-mi) · [CV](/cv) · [Proyectos](/proyectos)
+[Ver mis conferencias](/conferencias) · [Ver mi perfil completo](/sobre-mi) · [CV](/cv) · [Proyectos](/proyectos)
 
   </div>
 </section>
