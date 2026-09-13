@@ -52,20 +52,22 @@ Keynote, panel, moderación y taller cerrado con equipo directivo. Duración y p
 
 [Inscríbete sin costo](https://forms.cloud.microsoft/r/cC5xw8FfbE)
 
+<!-- FLYER_VIII: se agrega en el siguiente commit cuando haya URL pública estable -->
+
 ## Este año · COLFECAR en tu Región
 
 En julio de 2026 participé en la gira **COLFECAR en tu Región**, invitados por COLFECAR y Nidia Hernández Jiménez, con la conferencia **«Pasa de Chatear a dirigir tu equipo de Agentes»** — agentes e IA aplicada al liderazgo de equipos (no solo dato logístico).
 
 ### Barranquilla · 23 de julio de 2026
 
-![Juan Pablo Matiz en COLFECAR en tu Región, Barranquilla](https://atiemppo.com/assets/images/blog/colfecar-en-tu-region-barranquilla/juan-pablo-matiz-colfecar-barranquilla.jpg)
+<img src="https://atiemppo.com/assets/images/blog/colfecar-en-tu-region-barranquilla/juan-pablo-matiz-colfecar-barranquilla.jpg" alt="Juan Pablo Matiz en COLFECAR en tu Región, Barranquilla" width="420" style="max-width:100%;height:auto;border-radius:8px;" />
 
 Conversaciones sobre transporte, datos y decisiones desde el Caribe colombiano.  
 [Nota ATIEMPPO](https://atiemppo.com/blog/colfecar-en-tu-region-barranquilla/)
 
 ### Cali · 28 de julio de 2026
 
-![Juan Pablo Matiz en COLFECAR en tu Región, Cali](https://atiemppo.com/assets/images/blog/colfecar-en-tu-region-cali/juan-pablo-matiz-colfecar-cali.jpg)
+<img src="https://atiemppo.com/assets/images/blog/colfecar-en-tu-region-cali/juan-pablo-matiz-colfecar-cali.jpg" alt="Juan Pablo Matiz en COLFECAR en tu Región, Cali" width="420" style="max-width:100%;height:auto;border-radius:8px;" />
 
 Jornada en el Valle: productividad, datos e IA conectados a la operación regional.  
 [Nota ATIEMPPO](https://atiemppo.com/blog/colfecar-en-tu-region-cali/)
