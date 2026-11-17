@@ -1,18 +1,18 @@
 ---
-title: "Contacto - Juan Pablo Matiz"
+title: "Contacto con Juan Pablo Matiz, conferencista de IA"
 layout: default
 seo:
   tldr: "Contacto directo con Juan Pablo Matiz. Email: juanmatiz@atiemppo.co. Bogotá, Colombia. Disponible para proyectos de consultoría en logística y transporte."
-  description: "Información de contacto de Juan Pablo Matiz. Consultoría estratégica, datos e inteligencia artificial aplicada a logística y transporte."
+  description: "Contacto de Juan Pablo Matiz, conferencista de IA aplicada a logística y transporte. Escríbele en Bogotá para una charla, un taller o un proyecto."
 aiContext:
   topic: "Información de Contacto"
   region: "Colombia"
-canonical: "https://juanmatiz.com/contacto"
+canonical: "https://juanmatiz.com/contacto/"
 ---
 
 <section class="page-hero">
   <div class="wrapper-narrow">
-    <h1>Contacto</h1>
+    <h1 class="page-title-long">Contacto con Juan Pablo Matiz, conferencista</h1>
     <p class="page-subtitle">Disponible para consultoría estratégica, proyectos de datos, IA aplicada, conferencias y colaboraciones editoriales</p>
   </div>
 </section>

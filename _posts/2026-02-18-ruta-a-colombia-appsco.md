@@ -2,6 +2,8 @@
 layout: post
 title: "El día que nos ganamos Apps.co siguiendo la Vuelta a Colombia"
 description: "La historia de origen de Atiemppo: de una idea que no cerraba a un MVP en tres semanas que marcó el camino de la compañía."
+seo:
+  description: "Juan Pablo Matiz cuenta el origen de Atiemppo: un giro en Apps.co y un producto mínimo viable en menos de tres semanas, en la Vuelta a Colombia."
 date: 2026-02-18 11:20:00 -0500
 author: "Juan Pablo Matiz"
 categories: [blog]

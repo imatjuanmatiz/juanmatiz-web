@@ -328,6 +328,22 @@ a:hover {
   background-clip: text;
 }
 
+.hero h1 .hero-name,
+.hero h1 .hero-focus {
+  display: block;
+}
+
+.hero h1 .hero-focus {
+  margin-top: 12px;
+  font-size: 1.45rem;
+  line-height: 1.35;
+  font-weight: 500;
+  color: var(--primary);
+  background: none;
+  -webkit-text-fill-color: var(--primary);
+  text-wrap: balance;
+}
+
 .hero .hero-role {
   font-family: var(--font-display);
   font-size: 1.35rem;
@@ -1015,6 +1031,12 @@ a:hover {
   margin-bottom: 12px;
 }
 
+.page-hero h1.page-title-long {
+  font-size: clamp(1.75rem, 3.4vw, 2.35rem);
+  line-height: 1.25;
+  text-wrap: balance;
+}
+
 .page-hero .page-subtitle {
   color: var(--text-secondary);
   font-size: 1.15rem;
@@ -1184,8 +1206,13 @@ a:hover {
     padding: 100px 0 60px;
   }
 
-  .hero h1 {
+  .hero h1,
+  .hero h1 .hero-name {
     font-size: 2.2rem;
+  }
+
+  .hero h1 .hero-focus {
+    font-size: 1.25rem;
   }
 
   .hero-stats {
@@ -1225,8 +1252,13 @@ a:hover {
 }
 
 @media (max-width: 480px) {
-  .hero h1 {
+  .hero h1,
+  .hero h1 .hero-name {
     font-size: 1.8rem;
+  }
+
+  .hero h1 .hero-focus {
+    font-size: 1.15rem;
   }
 
   .hero-ctas {
@@ -1363,4 +1395,16 @@ a:hover {
 
 .post-back-link a {
   font-weight: 600;
+}
+
+.not-found-exits {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 28px;
+}
+
+.not-found-exits .btn:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 3px;
 }

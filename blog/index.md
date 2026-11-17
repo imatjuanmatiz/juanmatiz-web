@@ -1,15 +1,21 @@
 ---
 layout: page
-title: Blog
+title: "Blog de Juan Pablo Matiz, conferencista en IA y logística"
 permalink: /blog/
-description: Publicaciones, notas y hubs editoriales de Juan Pablo Matiz sobre logística, transporte, datos, IA aplicada y conferencias.
+seo:
+  description: "Blog de Juan Pablo Matiz, conferencista de IA aplicada a logística y transporte. Notas de este sitio, El Dato Logístico y el archivo de ATIEMPPO."
 ---
 
-<section class="blog-listing">
+<section class="page-hero">
   <div class="wrapper-narrow">
     <p class="post-kicker">Publicaciones</p>
-    <h2 style="margin-bottom:10px">Escritura actual y archivo</h2>
-    <p style="color:var(--text-secondary);margin-bottom:18px">Este sitio personal funciona como hub. Mi escritura más activa hoy vive en El Dato Logístico, en el laboratorio editorial de Atiemppo y en el trabajo que acompaña mis conferencias.</p>
+    <h1 class="page-title-long">Blog de Juan Pablo Matiz sobre logística e IA</h1>
+    <p class="page-subtitle">Escritura actual y archivo. Este sitio personal funciona como hub. Mi escritura más activa hoy vive en El Dato Logístico, en el laboratorio editorial de Atiemppo y en el trabajo que acompaña mis conferencias.</p>
+  </div>
+</section>
+
+<section class="page-content">
+  <div class="wrapper-narrow">
 
     <div class="cards-grid" style="margin-bottom:40px">
       <div class="card">
@@ -32,7 +38,7 @@ description: Publicaciones, notas y hubs editoriales de Juan Pablo Matiz sobre l
       </div>
     </div>
 
-    <h3 style="margin-bottom:10px">Archivo en este sitio</h3>
+    <h2 style="margin-bottom:10px">Archivo en este sitio</h2>
     <p style="color:var(--text-secondary);margin-bottom:28px">Aquí quedan publicaciones anteriores y piezas que ayudan a entender la trayectoria detrás de lo que estoy construyendo hoy.</p>
 
     {% if site.posts.size > 0 %}

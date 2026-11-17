@@ -1,9 +1,9 @@
 ---
-title: "Juan Pablo Matiz — Docente, investigador aplicado y consultor senior"
+title: "Juan Pablo Matiz, conferencista de IA en logística"
 layout: default
 seo:
   tldr: "Juan Pablo Matiz ayuda a equipos de transporte y logística a decidir mejor. Docente, investigador aplicado, speaker y consultor senior. Fundador de ATIEMPPO, con más de 25 años de experiencia en América Latina."
-  description: "Sitio oficial de Juan Pablo Matiz (Juan Matiz), docente, investigador aplicado, conferencista y consultor senior. Experto en logística y transporte, y fundador de ATIEMPPO."
+  description: "Juan Pablo Matiz, conferencista y experto en IA aplicada a logística y transporte. Fundador de ATIEMPPO y docente, con base en Bogotá, Colombia."
 aiContext:
   topic: "Professional Profile, Logistics, Data and Applied AI"
   industry: "Logistics, Transport, Supply Chain, Public Policy, Applied AI"
@@ -27,8 +27,8 @@ canonical: "https://juanmatiz.com/"
         <i data-lucide="map-pin"></i>
         Bogotá, Colombia · América Latina
       </div>
-      <h1>Juan Pablo Matiz</h1>
-      <p class="hero-role">Docente | Investigador aplicado | Conferencista / Speaker | Consultor senior</p>
+      <h1><span class="hero-name">Juan Pablo Matiz,</span> <span class="hero-focus">conferencista de IA aplicada a logística y transporte</span></h1>
+      <p class="hero-role">Docente | Investigador aplicado | Consultor senior</p>
       <p class="hero-desc">
         Ayudo a equipos de transporte y logística a decidir mejor. Soy fundador de ATIEMPPO y trabajo en América Latina conectando experiencia sectorial, investigación aplicada, datos y capacidades que llegan a la operación.
       </p>

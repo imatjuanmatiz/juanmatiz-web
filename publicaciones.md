@@ -1,18 +1,18 @@
 ---
-title: "Publicaciones - Juan Pablo Matiz"
+title: "Publicaciones de Juan Pablo Matiz sobre logística e IA"
 layout: default
 seo:
   tldr: "Publicaciones de Juan Pablo Matiz en logística, transporte, datos e IA aplicada. Incluye documentos técnicos, newsletter y frentes editoriales actuales."
-  description: "Publicaciones, investigación y escritura actual de Juan Pablo Matiz en logística, transporte, datos e inteligencia artificial aplicada."
+  description: "Publicaciones de Juan Pablo Matiz, conferencista de IA aplicada a logística y transporte. Documentos de CEPAL y del BID, El Dato Logístico y ATIEMPPO."
 aiContext:
   topic: "Publicaciones, investigación y escritura actual"
   region: "América Latina"
-canonical: "https://juanmatiz.com/publicaciones"
+canonical: "https://juanmatiz.com/publicaciones/"
 ---
 
 <section class="page-hero">
   <div class="wrapper-narrow">
-    <h1>Publicaciones</h1>
+    <h1 class="page-title-long">Publicaciones de Juan Pablo Matiz sobre logística</h1>
     <p class="page-subtitle">Documentos técnicos, escritura actual y frentes editoriales sobre logística, transporte, datos e IA aplicada</p>
   </div>
 </section>

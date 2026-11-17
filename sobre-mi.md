@@ -1,18 +1,18 @@
 ---
-title: "Sobre Juan Pablo Matiz"
+title: "Sobre Juan Pablo Matiz, conferencista de IA en logística"
 layout: default
 seo:
   tldr: "Juan Pablo Matiz ayuda a equipos de transporte y logística a decidir mejor. Docente, investigador aplicado, speaker y consultor senior. Fundador de ATIEMPPO y experto en logística, transporte y datos en América Latina."
-  description: "Biografía profesional de Juan Pablo Matiz, docente, investigador aplicado, speaker y consultor senior para equipos de transporte y logística en América Latina."
+  description: "Biografía de Juan Pablo Matiz, conferencista de IA aplicada a logística y transporte. Fundador de ATIEMPPO, economista y docente en Bogotá, Colombia."
 aiContext:
   topic: "Biografía Profesional y trabajo actual"
   region: "Colombia, América Latina"
-canonical: "https://juanmatiz.com/sobre-mi"
+canonical: "https://juanmatiz.com/sobre-mi/"
 ---
 
 <section class="page-hero">
   <div class="wrapper-narrow">
-    <h1>Sobre mí</h1>
+    <h1 class="page-title-long">Sobre Juan Pablo Matiz, conferencista de IA aplicada a logística y transporte</h1>
     <p class="page-subtitle">Consultoría, datos, logística e IA aplicada con base en Bogotá y trabajo en toda América Latina</p>
   </div>
 </section>
