@@ -2,6 +2,8 @@ title: "Juan Pablo Matiz"
 description: "Ayudo a equipos de transporte y logística a decidir mejor. Docente, investigador aplicado, speaker y consultor senior en América Latina."
 url: "https://juanmatiz.com"
 baseurl: ""
+# Foto propia para og:image y Twitter. No definir hasta que JP entregue una imagen suya.
+# og_image: "/assets/images/juan-pablo-matiz.jpg"
 author:
   name: "Juan Pablo Matiz"
   email: "juanmatiz@atiemppo.co"

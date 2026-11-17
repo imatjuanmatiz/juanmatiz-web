@@ -1,21 +1,21 @@
 ---
-title: "CV - Juan Pablo Matiz"
+title: "CV de Juan Pablo Matiz, conferencista de IA en logística"
 layout: default
 seo:
   tldr: "CV de Juan Pablo Matiz: docente, investigador aplicado, speaker y consultor senior. Ayuda a equipos de transporte y logística a decidir mejor. Fundador de ATIEMPPO, con más de 25 años de experiencia en América Latina."
-  description: "Curriculum Vitae de Juan Pablo Matiz, docente, investigador aplicado, speaker y consultor senior en transporte y logística en América Latina."
+  description: "Currículum de Juan Pablo Matiz, conferencista de IA aplicada a logística y transporte. Fundador de ATIEMPPO y docente, con base en Bogotá, Colombia."
 aiContext:
   topic: Curriculum Vitae
   industry: Logística, Consultoría, Transporte
   region: América Latina
-canonical: https://juanmatiz.com/cv
+canonical: "https://juanmatiz.com/cv/"
 ---
 
 <section class="page-hero">
   <div class="wrapper-narrow">
     <div class="cv-header">
-      <h1>Juan Pablo Matiz</h1>
-      <p class="cv-subtitle">Docente | Investigador aplicado | Speaker | Consultor senior</p>
+      <h1 class="page-title-long">CV de Juan Pablo Matiz, conferencista de IA aplicada a logística y transporte</h1>
+      <p class="cv-subtitle">Docente | Investigador aplicado | Consultor senior</p>
       <div class="cv-contact-row">
         <span>Bogotá, Colombia</span>
         <span>·</span>

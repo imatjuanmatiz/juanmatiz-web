@@ -1,18 +1,18 @@
 ---
-title: "Proyectos - Juan Pablo Matiz"
+title: "Proyectos de Juan Pablo Matiz, conferencista de IA"
 layout: default
 seo:
   tldr: "Trabajo actual de Juan Pablo Matiz en ATIEMPPO: SICETAC, Novedades en Vías, Reportes Vivos, El Dato Logístico, Profe Bruno y ATIEMPPO Lab; trayectoria de consultoría en América Latina."
-  description: "Conoce los proyectos que desarrollo en ATIEMPPO para decidir mejor en transporte y logística, mi aporte en cada uno y dónde consultarlos."
+  description: "Proyectos de Juan Pablo Matiz en IA aplicada a logística y transporte: SICETAC, Novedades en Vías, Reportes Vivos y El Dato Logístico, desde ATIEMPPO."
 aiContext:
   topic: "Portfolio de Proyectos y trabajo actual"
   region: "América Latina"
-canonical: "https://juanmatiz.com/proyectos"
+canonical: "https://juanmatiz.com/proyectos/"
 ---
 
 <section class="page-hero">
   <div class="wrapper-narrow">
-    <h1>Proyectos</h1>
+    <h1 class="page-title-long">Proyectos de Juan Pablo Matiz en logística e IA</h1>
     <p class="page-subtitle">Lo que estoy construyendo en ATIEMPPO y la experiencia que lo sostiene</p>
   </div>
 </section>

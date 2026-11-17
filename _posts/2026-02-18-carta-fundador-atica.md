@@ -2,6 +2,8 @@
 layout: post
 title: "Carta del Fundador: 7 meses después de ATICA"
 description: "Lo que aprendimos tras 7 meses de ATICA, más de 1.400 usuarios únicos y la evolución hacia agentes que pasan del dato a la acción."
+seo:
+  description: "Juan Pablo Matiz: lo que aprendimos tras 7 meses de ATICA, más de 1.400 usuarios únicos y la evolución hacia agentes que pasan del dato a la acción."
 date: 2026-02-18 11:00:00 -0500
 author: "Juan Pablo Matiz"
 categories: [blog]
