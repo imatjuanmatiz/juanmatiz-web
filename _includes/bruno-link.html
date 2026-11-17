@@ -1,0 +1,49 @@
+{%- assign bruno = site.data.bruno_contact -%}
+{%- assign bruno_copy = bruno.es -%}
+{%- assign bruno_id = include.id | default: 'inline' -%}
+{%- assign bruno_url = page.url | replace: '.html', '' | append: '/' | replace: '//', '/' -%}
+{%- if bruno_url == '' or bruno_url == '/' -%}{%- assign bruno_url = '/' -%}{%- endif -%}
+{%- assign bruno_context_option = '' -%}
+{%- assign bruno_context_message = '' -%}
+{%- assign bruno_context_size = 0 -%}
+{%- for ctx in bruno_copy.contexts -%}
+  {%- assign ctx_size = ctx.prefix | size -%}
+  {%- assign ctx_hit = bruno_url | slice: 0, ctx_size -%}
+  {%- if ctx_hit == ctx.prefix and ctx_size > bruno_context_size -%}
+    {%- assign bruno_context_option = ctx.option -%}
+    {%- assign bruno_context_message = ctx.message -%}
+    {%- assign bruno_context_size = ctx_size -%}
+  {%- endif -%}
+{%- endfor -%}
+<div class="bruno-menu{% if include.floating %} bruno-menu--floating{% endif %}" data-bruno-menu>
+  <button class="bruno-link" id="bruno-trigger-{{ bruno_id }}" type="button" aria-haspopup="menu" aria-expanded="false" aria-controls="bruno-menu-{{ bruno_id }}"{% if include.describedby %} aria-describedby="{{ include.describedby }}"{% endif %} commandfor="bruno-menu-{{ bruno_id }}" command="toggle-popover" data-bruno-trigger>
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 11.5a8.5 8.5 0 0 1-8.5 8.5 9 9 0 0 1-4-.9L3 21l1.9-5.5a9 9 0 0 1-.9-4A8.5 8.5 0 0 1 12.5 3 8.5 8.5 0 0 1 21 11.5Z"/><path d="M8.5 11.5h8M8.5 8.5h5"/></svg>
+    <span>{{ bruno_copy.short_cta }}</span>
+    <span class="bruno-caret" aria-hidden="true"></span>
+  </button>
+  <div class="bruno-popover" id="bruno-menu-{{ bruno_id }}" popover="auto" data-bruno-popover>
+    <div focusgroup="menu nomemory" aria-labelledby="bruno-trigger-{{ bruno_id }}">
+      {%- for option in bruno_copy.options -%}
+        {%- if bruno_context_option != '' and option.id == bruno_context_option -%}
+          {%- assign option_message = option.message -%}
+          {%- if bruno_context_message != '' -%}{%- assign option_message = bruno_context_message -%}{%- endif -%}
+          {%- if option.href -%}
+      <a href="{{ option.href }}" target="_blank" rel="noopener noreferrer">{{ option.label }}</a>
+          {%- else -%}
+      <a href="{{ bruno.whatsapp_url }}?text={{ option_message | url_encode }}" target="_blank" rel="noopener noreferrer">{{ option.label }}</a>
+          {%- endif -%}
+        {%- endif -%}
+      {%- endfor -%}
+      {%- for option in bruno_copy.options -%}
+        {%- unless bruno_context_option != '' and option.id == bruno_context_option -%}
+          {%- assign option_message = option.message -%}
+          {%- if option.href -%}
+      <a href="{{ option.href }}" target="_blank" rel="noopener noreferrer">{{ option.label }}</a>
+          {%- else -%}
+      <a href="{{ bruno.whatsapp_url }}?text={{ option_message | url_encode }}" target="_blank" rel="noopener noreferrer">{{ option.label }}</a>
+          {%- endif -%}
+        {%- endunless -%}
+      {%- endfor -%}
+    </div>
+  </div>
+</div>

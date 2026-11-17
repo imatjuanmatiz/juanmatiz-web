@@ -67,6 +67,7 @@
 
   <!-- CSS -->
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/bruno-contact.css' | relative_url }}">
 
 </head>
 <body>
@@ -75,6 +76,12 @@
 
   <main>
     {{ content }}
+    <section class="bruno-close" aria-label="Habla con Bruno">
+      <div class="wrapper bruno-close-inner">
+        <p id="bruno-close-desc" class="bruno-close-text">{{ site.data.bruno_contact.es.description }}</p>
+        {% include bruno-link.html id="cierre" describedby="bruno-close-desc" %}
+      </div>
+    </section>
   </main>
 
   {% include footer.html %}
@@ -124,6 +131,7 @@
     }, observerOptions);
     document.querySelectorAll('.animate-on-scroll').forEach(el => observer.observe(el));
   </script>
+  <script src="{{ '/assets/js/bruno-contact.js' | relative_url }}"></script>
 
 </body>
 </html>

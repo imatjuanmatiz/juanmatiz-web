@@ -103,7 +103,7 @@ Liderazgo de procesos de transformación digital aplicada, acompañando a empres
 - Diseño de formación aplicada con Profe Bruno y ATIEMPPO Lab; experimentación docente con acompañamiento de IA
 - Desarrollo de Bruno y un banco de conocimiento para coordinar trabajo y reutilizar fuentes, métodos y aprendizajes con revisión humana
 
-[Ver mi aporte, enlaces y estado de cada proyecto](/proyectos).
+[Ver mi aporte, enlaces y estado de cada proyecto](/proyectos/).
 
 ---
 

@@ -32,7 +32,7 @@ Hoy concentro mi trabajo en tres frentes complementarios:
 
 Ayudo a equipos de transporte y logística a decidir mejor. Soy docente, investigador aplicado, speaker y consultor senior. Papá de Alejandro y economista con más de 25 años de experiencia en logística, transporte y consultoría estratégica en América Latina, mi trayectoria combina trabajo directo con entidades gubernamentales, organismos multilaterales, gremios empresariales y sector privado.
 
-Soy fundador de **ATIEMPPO** (2013). También participé como cofundador de **Imétrica**; el cargo documentado de Director de Estudios allí abarca del 26 de junio de 2015 al 30 de enero de 2026. Son trayectorias distintas y complementarias: ATIEMPPO desarrolla consultoría, aplicaciones, información y experiencias de aprendizaje para transporte y logística; Imétrica concentra la trayectoria histórica de consultoría estratégica e investigación aplicada.
+Soy [fundador de ATIEMPPO](https://atiemppo.com/) (2013). También participé como cofundador de **Imétrica**; el cargo documentado de Director de Estudios allí abarca del 26 de junio de 2015 al 30 de enero de 2026. Son trayectorias distintas y complementarias: ATIEMPPO desarrolla consultoría, aplicaciones, información y experiencias de aprendizaje para transporte y logística; Imétrica concentra la trayectoria histórica de consultoría estratégica e investigación aplicada.
 
 ## Cómo trabajo hoy
 
@@ -50,7 +50,7 @@ También he liderado la elaboración de planes nacionales de logística, estrate
 
 Hoy, desde ATIEMPPO, desarrollo SICETAC al Instante, Novedades en Vías, Reportes Vivos y El Dato Logístico. Con Profe Bruno y ATIEMPPO Lab llevo esos aprendizajes a clases y talleres. Bruno y el banco de conocimiento apoyan la continuidad del trabajo: fuentes, contexto y aprendizajes que se pueden volver a consultar.
 
-[Conoce mi aporte y el estado de cada proyecto](/proyectos).
+[Conoce mi aporte y el estado de cada proyecto](/proyectos/).
 
 ## Innovación tecnológica y productos
 
@@ -84,7 +84,7 @@ Vivo en Bogotá y disfruto la música, la tecnología y jugar con mi hijo Alejan
 
 ---
 
-[Ver mi CV completo](/cv) · [Conoce mis proyectos](/proyectos) · [Publicaciones](/publicaciones) · [Contacto](/contacto)
+[Ver mi CV completo](/cv/) · [Conoce mis proyectos](/proyectos/) · [Publicaciones](/publicaciones/) · [Contacto](/contacto/)
 
   </div>
 </section>

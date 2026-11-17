@@ -64,7 +64,7 @@ Hoy combino publicaciones técnicas tradicionales con formatos más ágiles: new
 
 ---
 
-[Ver mi CV completo](/cv) · [Conoce mis proyectos](/proyectos) · [Contacto](/contacto)
+[Ver mi CV completo](/cv/) · [Conoce mis proyectos](/proyectos/) · [Contacto](/contacto/)
 
   </div>
 </section>

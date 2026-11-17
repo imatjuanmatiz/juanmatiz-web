@@ -1,0 +1,25 @@
+whatsapp_url: "https://wa.me/573188022396"
+es:
+  short_cta: "Habla con Bruno"
+  menu_label: "Motivos para hablar con Bruno"
+  description: "Bruno es el asistente de IA de Juan Pablo Matiz. Te cuenta sobre sus conferencias, cursos y consultoría y te ayuda a agendar una cita."
+  options:
+    - id: talks
+      label: "Conferencia o charla"
+      message: "Hola Bruno, quiero una conferencia o una charla."
+    - id: consulting
+      label: "Consultoría"
+      message: "Hola Bruno, quiero consultoría para un reto de mi operación."
+    - id: courses
+      label: "Cursos de IA para mi equipo"
+      message: "Hola Bruno, quiero un curso de IA para mi equipo."
+    - id: sicetac
+      label: "Consultar SICETAC"
+      href: "https://atiemppo.com/sicetac-al-instante/"
+  contexts:
+    - prefix: "/conferencias/"
+      option: talks
+      message: "Hola Bruno, quiero una conferencia de IA de Juan Pablo Matiz para un evento o una junta."
+    - prefix: "/proyectos/"
+      option: consulting
+      message: "Hola Bruno, quiero consultoría para un reto de mi operación."

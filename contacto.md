@@ -66,7 +66,7 @@ canonical: "https://juanmatiz.com/contacto"
         <div class="contact-icon"><i data-lucide="globe"></i></div>
         <div>
           <div class="contact-label">Atiemppo</div>
-          <div class="contact-value"><a href="https://atiemppo.com" target="_blank" rel="noopener">atiemppo.com</a></div>
+          <div class="contact-value"><a href="https://atiemppo.com/" target="_blank" rel="noopener">atiemppo.com</a></div>
         </div>
       </div>
       <div class="contact-card">
@@ -77,11 +77,14 @@ canonical: "https://juanmatiz.com/contacto"
         </div>
       </div>
     </div>
+    <div class="contact-bruno">
+      {% include bruno-link.html id="contacto" describedby="bruno-close-desc" %}
+    </div>
   </div>
 </section>
 
 <section class="section section-alt">
-  <div class="wrapper-narrow">
+  <div class="wrapper-narrow" markdown="1">
 
 ## ¿En qué puedo ayudar hoy?
 
@@ -95,11 +98,11 @@ canonical: "https://juanmatiz.com/contacto"
 
 ## Ecosistema actual
 
-**ATIEMPPO S.A.S.** — Consultoría, aplicaciones, información y aprendizaje para logística y transporte · [atiemppo.com](https://atiemppo.com) · [Conferencias](https://atiemppo.com/conferencias/)
+**ATIEMPPO S.A.S.** — Consultoría, aplicaciones, información y aprendizaje para logística y transporte · [atiemppo.com](https://atiemppo.com/) · [Conferencias](https://atiemppo.com/conferencias/) · [Cursos](https://atiemppo.com/cursos/)
 
 **El Dato Logístico** — Newsletter y archivo editorial sobre logística, transporte, datos e IA · [eldatologistico.com](https://www.eldatologistico.com/authors/juan-pablo-matiz)
 
-Mi etapa como cofundador y Director de Estudios de **Imétrica S.A.S.** forma parte de [mi trayectoria profesional](/cv).
+Mi etapa como cofundador y Director de Estudios de **Imétrica S.A.S.** forma parte de [mi trayectoria profesional](/cv/).
 
 ---
 
@@ -117,7 +120,7 @@ Disponible para:
 
 ---
 
-[Ver mis conferencias](/conferencias) · [Ver mi perfil completo](/sobre-mi) · [CV](/cv) · [Proyectos](/proyectos)
+[Ver mis conferencias](/conferencias/) · [Ver mi perfil completo](/sobre-mi/) · [CV](/cv/) · [Proyectos](/proyectos/)
 
   </div>
 </section>
