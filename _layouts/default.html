@@ -2,22 +2,86 @@
 <html lang="es">
 <head>
 
+  {% assign canonical_url = page.canonical | default: page.url | absolute_url %}
   <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Person",
-  "@id": "https://juanmatiz.com/#juan-pablo-matiz",
-  "name": "Juan Pablo Matiz Gaviria",
-  "alternateName": ["Juan Pablo Matiz", "Juan Matiz"],
-  "url": "https://juanmatiz.com",
-  "jobTitle": "Docente, investigador aplicado, speaker y consultor senior en transporte y logística",
-  "description": "Ayudo a equipos de transporte y logística a decidir mejor. Fundador de ATIEMPPO, docente, investigador aplicado, speaker y consultor senior en América Latina.",
-  "worksFor": { "@type": "Organization", "name": "ATIEMPPO", "url": "https://atiemppo.com/" },
-  "knowsAbout": ["Applied Research", "Logistics", "Transport", "Data Analytics", "Teaching", "Public Policy", "Artificial Intelligence"],
-  "sameAs": [
-    "https://www.linkedin.com/in/juanmatizg",
-    "https://twitter.com/juanmatizg",
-    "https://github.com/imatjuanmatiz"
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://juanmatiz.com/#person",
+      "name": "Juan Pablo Matiz",
+      "alternateName": "Juan Matiz",
+      "url": "https://juanmatiz.com/",
+      "jobTitle": [
+        "Conferencista de IA aplicada a logística y transporte",
+        "Fundador y CEO de ATIEMPPO"
+      ],
+      "worksFor": {
+        "@type": "Organization",
+        "@id": "https://atiemppo.com/#organization",
+        "name": "ATIEMPPO",
+        "url": "https://atiemppo.com/"
+      },
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "name": "El Dato Logístico",
+          "url": "https://www.eldatologistico.com/"
+        },
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "Universidad CESA",
+          "url": "https://www.cesa.edu.co/"
+        }
+      ],
+      "knowsAbout": [
+        "Logística",
+        "Transporte de carga",
+        "Inteligencia artificial aplicada",
+        "Análisis de datos",
+        "SICETAC",
+        "Agentes de IA"
+      ],
+      "sameAs": [
+        "https://www.linkedin.com/in/juanmatizg",
+        "https://x.com/juanmatizg",
+        "https://github.com/imatjuanmatiz",
+        "https://www.eldatologistico.com/authors/juan-pablo-matiz",
+        "https://atiemppo.com/quienes-somos/"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Bogotá",
+        "addressCountry": "CO"
+      }
+    }{% if page.path == "index.md" or page.path == "sobre-mi.md" %},
+    {
+      "@type": "ProfilePage",
+      "@id": "{{ canonical_url }}#profilepage",
+      "url": "{{ canonical_url }}",
+      "mainEntity": {
+        "@id": "https://juanmatiz.com/#person"
+      },
+      "dateModified": "2026-11-17"
+    }{% endif %}{% if page.layout == "post" %},
+    {
+      "@type": "BlogPosting",
+      "headline": {{ page.title | jsonify }},
+      "datePublished": "{{ page.date | date_to_xmlschema }}",
+      "dateModified": "{{ page.date | date_to_xmlschema }}",
+      "author": {
+        "@id": "https://juanmatiz.com/#person"
+      },
+      "publisher": {
+        "@id": "https://juanmatiz.com/#person"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ page.url | absolute_url }}"
+      },
+      "inLanguage": "es-CO"
+    }{% endif %}
   ]
 }
 </script>
@@ -39,7 +103,6 @@
   <!-- Open Graph -->
   <meta property="og:title" content="{{ page.title | default: site.title }}">
   <meta property="og:description" content="{{ page.excerpt | default: page.seo.description | default: site.description }}">
-  {% assign canonical_url = page.canonical | default: page.url | absolute_url %}
   <meta property="og:url" content="{{ canonical_url }}">
   {% if site.og_image and site.og_image != "" %}
   <meta property="og:image" content="{{ site.og_image | absolute_url }}">
