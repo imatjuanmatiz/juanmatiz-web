@@ -1,0 +1,129 @@
+/* Estilos de /conferencias/. El CSS global queda en otro PR. */
+
+.event-photo {
+  display: block;
+  width: min(100%, 420px);
+  height: auto;
+  margin: 1rem 0 1.25rem;
+  border-radius: 8px;
+}
+
+.event-facts {
+  margin: 0 0 1rem;
+}
+
+.event-facts dt {
+  margin-top: 0.75rem;
+  font-weight: 600;
+  color: var(--text);
+}
+
+.event-facts dd {
+  margin: 0;
+  color: var(--text-secondary);
+}
+
+.schedule-cta {
+  margin: 0.25rem 0 1.5rem;
+}
+
+.schedule-cta .btn:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 3px;
+}
+
+.talk-scroll {
+  max-inline-size: 100%;
+  overflow: auto;
+  container-type: inline-size;
+}
+
+.talk-scroll:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 3px;
+}
+
+.talk-list {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.talk-list th,
+.talk-list td {
+  padding: 0.65rem 0.5rem;
+  border-bottom: 1px solid var(--border);
+  vertical-align: top;
+  text-align: left;
+}
+
+.talk-list thead th {
+  color: var(--text);
+  font-size: 0.95rem;
+}
+
+@container (width < 640px) {
+  .talk-list,
+  .talk-list thead,
+  .talk-list tbody,
+  .talk-list tr,
+  .talk-list th,
+  .talk-list td {
+    display: block;
+  }
+
+  .talk-list thead {
+    display: none;
+  }
+
+  .talk-list tr {
+    margin-block-end: 1.25rem;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .talk-list th,
+  .talk-list td {
+    border-bottom: 0;
+    padding: 0.15rem 0;
+  }
+
+  .talk-list tbody th {
+    margin-top: 0.35rem;
+    color: var(--text);
+  }
+
+  .talk-list {
+    --label-2: "País";
+    --label-3: "Rol";
+    --label-4: "Temas";
+  }
+
+  .talk-list td:nth-child(2)::before {
+    content: var(--label-2) ": ";
+    font-weight: 600;
+    color: var(--text);
+  }
+
+  .talk-list td:nth-child(3)::before {
+    content: var(--label-3) ": ";
+    font-weight: 600;
+    color: var(--text);
+  }
+
+  .talk-list td:nth-child(4)::before {
+    content: var(--label-4) ": ";
+    font-weight: 600;
+    color: var(--text);
+  }
+}
+
+@media (max-width: 768px) {
+  .page-hero h1 {
+    font-size: 2rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .page-hero h1 {
+    font-size: 1.75rem;
+  }
+}
