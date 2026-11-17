@@ -56,7 +56,7 @@ Seguir el sector requiere separar señales útiles del ruido. Desarrollo un proy
 
 **Mi aporte:** criterio editorial, selección de preguntas y conexión entre evidencia y contexto sectorial. **Estado:** publicaciones y reportes disponibles, con un sistema editorial en evolución.
 
-[Conocer El Dato Logístico](https://atiemppo.com/eldatologistico/) · [Ver cómo se construye](https://atiemppo.com/casos/sistema-editorial-ia-el-dato-logistico/)
+[Conocer El Dato Logístico](https://www.eldatologistico.com/) · [Ver cómo se construye](https://atiemppo.com/casos/sistema-editorial-ia-el-dato-logistico/)
 
 ### Profe Bruno y docencia
 {: #profe-bruno}
@@ -172,7 +172,7 @@ También he desarrollado soluciones digitales y análisis aplicados a la operaci
 
 ---
 
-[Ver mi CV completo](/cv) · [Publicaciones](/publicaciones) · [Contacto](/contacto)
+[Ver mi CV completo](/cv/) · [Publicaciones](/publicaciones/) · [Contacto](/contacto/)
 
   </div>
 </section>

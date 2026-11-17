@@ -30,10 +30,10 @@ canonical: "https://juanmatiz.com/"
       <h1><span class="hero-name">Juan Pablo Matiz,</span> <span class="hero-focus">conferencista de IA aplicada a logística y transporte</span></h1>
       <p class="hero-role">Docente | Investigador aplicado | Consultor senior</p>
       <p class="hero-desc">
-        Ayudo a equipos de transporte y logística a decidir mejor. Soy fundador de ATIEMPPO y trabajo en América Latina conectando experiencia sectorial, investigación aplicada, datos y capacidades que llegan a la operación.
+        Ayudo a equipos de transporte y logística a decidir mejor. Soy <a href="https://atiemppo.com/">fundador de ATIEMPPO</a> y trabajo en América Latina conectando experiencia sectorial, investigación aplicada, datos y capacidades que llegan a la operación.
       </p>
       <div class="hero-ctas">
-        <a href="/proyectos" class="btn btn-primary">
+        <a href="/proyectos/" class="btn btn-primary">
           <i data-lucide="rocket"></i>
           Lo que estoy construyendo
         </a>
@@ -41,10 +41,11 @@ canonical: "https://juanmatiz.com/"
           <i data-lucide="external-link"></i>
           Visitar Atiemppo
         </a>
-        <a href="/conferencias" class="btn btn-outline">
+        <a href="/conferencias/" class="btn btn-outline">
           <i data-lucide="mic"></i>
           Invitarme como conferencista
         </a>
+        {% include bruno-link.html id="hero" describedby="bruno-close-desc" %}
       </div>
       <div class="hero-stats">
         <div class="stat-item">
@@ -117,7 +118,7 @@ canonical: "https://juanmatiz.com/"
         <div class="card-icon gold"><i data-lucide="briefcase-business"></i></div>
         <h3>Consultoría regional</h3>
         <p>Sigo liderando y acompañando proyectos para organismos multilaterales, gobiernos y empresas en política pública, redes logísticas, encuestas nacionales y estrategia sectorial.</p>
-        <p><a href="/proyectos">Ver proyectos</a></p>
+        <p><a href="/proyectos/">Ver proyectos</a></p>
       </div>
     </div>
   </div>
@@ -149,7 +150,7 @@ canonical: "https://juanmatiz.com/"
         <div class="card-icon green"><i data-lucide="leaf"></i></div>
         <h3>Docencia, conferencias y talleres</h3>
         <p>Comparto conocimiento con equipos, empresarios, gerentes y estudiantes mediante clases, conferencias y experiencias de aprendizaje aplicado.</p>
-        <p><a href="/conferencias">Conocer mis conferencias en logística</a></p>
+        <p><a href="/conferencias/">Conocer mis conferencias en logística</a>. La oferta de ATIEMPPO está en <a href="https://atiemppo.com/conferencias/">conferencias</a> y <a href="https://atiemppo.com/cursos/">cursos</a>.</p>
       </div>
       <div class="card animate-on-scroll">
         <div class="card-icon" style="background: linear-gradient(135deg, #0f766e, #14b8a6);"><i data-lucide="mic"></i></div>
@@ -172,19 +173,19 @@ canonical: "https://juanmatiz.com/"
         <div class="card-icon blue"><i data-lucide="truck"></i></div>
         <h3>Costos, rutas y decisiones</h3>
         <p>Desarrollo SICETAC al Instante, Novedades en Vías y Reportes Vivos para consultar referencias, seguir cambios y comparar escenarios.</p>
-        <a href="/proyectos#sicetac">Ver estos proyectos →</a>
+        <a href="/proyectos/#sicetac">Ver estos proyectos →</a>
       </div>
       <div class="card animate-on-scroll">
         <div class="card-icon gold"><i data-lucide="book-open"></i></div>
         <h3>Conocimiento sectorial</h3>
         <p>Con El Dato Logístico conecto fuentes, análisis y criterio editorial. Con Bruno y el banco de conocimiento organizo lo aprendido para reutilizarlo.</p>
-        <a href="/proyectos#el-dato-logistico">Conocer el trabajo editorial →</a>
+        <a href="/proyectos/#el-dato-logistico">Conocer el trabajo editorial →</a>
       </div>
       <div class="card animate-on-scroll">
         <div class="card-icon green"><i data-lucide="graduation-cap"></i></div>
         <h3>Aprendizaje aplicado</h3>
         <p>En docencia, Profe Bruno y ATIEMPPO Lab llevo casos reales a clases y talleres para aprender a preguntar, verificar y decidir.</p>
-        <a href="/proyectos#profe-bruno">Explorar la formación →</a>
+        <a href="/proyectos/#profe-bruno">Explorar la formación →</a>
       </div>
     </div>
   </div>
@@ -238,7 +239,7 @@ canonical: "https://juanmatiz.com/"
       <p class="subtitle">Si necesitas combinar experiencia logística, lectura de datos y criterio para IA aplicada, conversemos. Trabajo con empresas, organismos multilaterales, equipos directivos y proyectos editoriales especializados.</p>
     </div>
     <div style="text-align: center;">
-      <a href="/contacto" class="btn btn-accent">
+      <a href="/contacto/" class="btn btn-accent">
         <i data-lucide="send"></i>
         Escríbeme
       </a>

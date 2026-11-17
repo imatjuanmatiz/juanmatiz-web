@@ -34,7 +34,7 @@ seo:
         <div class="card-icon gold"><i data-lucide="mic"></i></div>
         <h3>Conferencias de logística</h3>
         <p>Temas, experiencias y notas de Juan Pablo Matiz como conferencista en logística, transporte, datos e IA aplicada.</p>
-        <p><a href="/conferencias">Ver conferencias</a> · <a href="https://atiemppo.com/blog/conferencias/" target="_blank" rel="noopener">Blog de conferencias en ATIEMPPO</a></p>
+        <p><a href="/conferencias/">Ver conferencias</a> · <a href="https://atiemppo.com/blog/conferencias/" target="_blank" rel="noopener">Blog de conferencias en ATIEMPPO</a></p>
       </div>
     </div>
 
