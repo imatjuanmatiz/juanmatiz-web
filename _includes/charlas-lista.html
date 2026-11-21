@@ -5,7 +5,7 @@
     <h3>
       <a href="{{ charla.url }}" target="_blank" rel="noopener noreferrer">
         {{ charla.evento }}
-        <span class="charlas-sr">, post en LinkedIn</span>
+        <span class="charlas-sr">, {{ charla.enlace | default: "post en LinkedIn" }}</span>
         <i data-lucide="arrow-up-right" aria-hidden="true"></i>
       </a>
     </h3>
