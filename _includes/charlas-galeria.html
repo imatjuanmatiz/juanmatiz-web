@@ -1,0 +1,26 @@
+<ul class="charlas-gallery">
+  {% for foto in site.data.charlas.fotos %}
+  <li>
+    <figure>
+      <a href="{{ foto.archivo | prepend: '/assets/images/conferencias/' | relative_url }}" data-caption="{{ foto.titulo }} · {{ foto.anio }}">
+        <img
+          src="{{ foto.archivo | prepend: '/assets/images/conferencias/' | relative_url }}"
+          alt="{{ foto.alt }}"
+          width="{{ foto.ancho }}"
+          height="{{ foto.alto }}"
+          {% if foto.ajuste or foto.posicion %}style="{% if foto.ajuste %}object-fit: {{ foto.ajuste }};{% endif %}{% if foto.posicion %}object-position: {{ foto.posicion }};{% endif %}"{% endif %}
+          loading="lazy"
+          decoding="async">
+      </a>
+      <figcaption>{{ foto.titulo }} · {{ foto.anio }}</figcaption>
+    </figure>
+  </li>
+  {% endfor %}
+</ul>
+
+<dialog class="charlas-dialog" aria-label="Foto ampliada">
+  <button type="button" class="charlas-dialog-close">Cerrar</button>
+  <img alt="">
+  <p></p>
+</dialog>
+<script src="{{ '/assets/js/conferencias.js' | relative_url }}" defer></script>

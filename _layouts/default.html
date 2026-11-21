@@ -138,6 +138,9 @@
   <!-- CSS -->
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/bruno-contact.css' | relative_url }}">
+  {% if page.path == "index.md" or page.path == "conferencias.md" %}
+  <link rel="stylesheet" href="{{ '/assets/css/conferencias.css' | relative_url }}">
+  {% endif %}
 
 </head>
 <body>

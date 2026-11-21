@@ -127,3 +127,314 @@
     font-size: 1.75rem;
   }
 }
+
+/* ============================
+   Tablero de charlas
+   ============================ */
+#conferencias,
+#trayectoria {
+  scroll-margin-top: 96px;
+}
+
+.charlas-board {
+  padding: 12px 0 72px;
+}
+
+.charlas-cifra {
+  display: flex;
+  align-items: center;
+  gap: 22px;
+  margin: 0 0 28px;
+  padding: 26px 30px;
+  background: white;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow);
+}
+
+.charlas-cifra strong {
+  flex: none;
+  font-family: var(--font-display);
+  font-size: clamp(2.6rem, 6vw, 3.6rem);
+  font-weight: 700;
+  line-height: 0.9;
+  color: var(--primary);
+}
+
+.charlas-cifra span {
+  color: var(--text);
+  font-size: 1.12rem;
+  line-height: 1.45;
+}
+
+.charlas-ventana {
+  margin: 0 0 8px;
+}
+
+.charlas-ventana h3,
+.charlas-sub {
+  font-family: var(--font-display);
+  color: var(--primary);
+  margin: 0 0 8px;
+}
+
+.charlas-ventana h3 {
+  font-size: 1.35rem;
+}
+
+.charlas-ventana > p {
+  margin: 0 0 18px;
+  color: var(--text-secondary);
+}
+
+.charlas-ventana > p strong {
+  color: var(--text);
+}
+
+.charlas-bars {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 16px;
+}
+
+.charlas-bars li {
+  padding: 18px 18px 16px;
+  background: white;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+}
+
+.charlas-bar-top {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  margin-bottom: 12px;
+  font-size: 0.95rem;
+  font-weight: 600;
+  line-height: 1.35;
+  color: var(--text);
+}
+
+.charlas-bar-top span:last-child {
+  font-family: var(--font-display);
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1;
+  color: var(--primary);
+}
+
+.charlas-track {
+  height: 10px;
+  border-radius: 999px;
+  background: var(--bg-dark);
+  overflow: hidden;
+}
+
+.charlas-track > span {
+  display: block;
+  height: 100%;
+  min-width: 10px;
+  border-radius: inherit;
+  background: linear-gradient(90deg, var(--accent), #38bdf8);
+}
+
+.charlas-bars li:nth-child(2) .charlas-track > span {
+  background: linear-gradient(90deg, var(--gold), #f59e0b);
+}
+
+.charlas-bars li:nth-child(3) .charlas-track > span {
+  background: linear-gradient(90deg, var(--primary), #3d516b);
+}
+
+.charlas-more {
+  margin: 32px 0 0;
+  text-align: center;
+}
+
+.charlas-sub {
+  margin: 48px 0 8px;
+  font-size: 1.35rem;
+}
+
+.charlas-note {
+  margin: 0 0 16px;
+  color: var(--text-secondary);
+}
+
+.charlas-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border-top: 1px solid var(--border);
+}
+
+.charlas-list li {
+  padding: 18px 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.charlas-when {
+  margin: 0 0 4px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  color: var(--accent-dark);
+}
+
+.charlas-list h3 {
+  margin: 0 0 6px;
+  font-size: 1.12rem;
+  line-height: 1.35;
+}
+
+.charlas-list h3 a {
+  color: var(--primary);
+  text-decoration: none;
+}
+
+.charlas-list h3 a:hover {
+  color: var(--accent-dark);
+}
+
+.charlas-list h3 i,
+.charlas-list h3 svg {
+  width: 16px;
+  height: 16px;
+  margin-left: 4px;
+  vertical-align: -2px;
+}
+
+.charlas-tema {
+  margin: 0;
+  color: var(--text-secondary);
+  font-size: 0.95rem;
+  line-height: 1.55;
+}
+
+.charlas-sr {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.charlas-gallery {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 16px 14px;
+  margin: 8px 0 0;
+  padding: 0;
+}
+
+.charlas-gallery figure {
+  margin: 0;
+}
+
+.charlas-gallery a {
+  display: block;
+  aspect-ratio: 16 / 10;
+  overflow: hidden;
+  border-radius: var(--radius-sm);
+  background: var(--bg-dark);
+}
+
+.charlas-gallery img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.charlas-gallery figcaption {
+  margin-top: 6px;
+  font-size: 0.8rem;
+  line-height: 1.35;
+  color: var(--text-secondary);
+}
+
+.charlas-gallery a:focus-visible,
+.charlas-list a:focus-visible,
+.charlas-dialog-close:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 3px;
+}
+
+.charlas-dialog {
+  width: min(960px, calc(100vw - 32px));
+  max-height: calc(100vh - 32px);
+  margin: auto;
+  padding: 16px;
+  border: none;
+  border-radius: var(--radius);
+  background: var(--primary);
+  color: white;
+}
+
+.charlas-dialog::backdrop {
+  background: rgba(15, 23, 42, 0.84);
+}
+
+.charlas-dialog img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: min(72vh, 720px);
+  object-fit: contain;
+  border-radius: var(--radius-sm);
+  background: black;
+}
+
+.charlas-dialog p {
+  margin: 10px 0 0;
+  font-size: 0.95rem;
+}
+
+.charlas-dialog-close {
+  margin: 0 0 10px auto;
+  display: block;
+  padding: 6px 12px;
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  border-radius: 999px;
+  background: transparent;
+  color: white;
+  font: inherit;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+@media (max-width: 900px) {
+  .charlas-gallery {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 800px) {
+  .charlas-bars {
+    grid-template-columns: 1fr;
+  }
+
+  .charlas-bar-top {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: baseline;
+  }
+}
+
+@media (max-width: 640px) {
+  .charlas-cifra {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+    padding: 20px;
+  }
+}

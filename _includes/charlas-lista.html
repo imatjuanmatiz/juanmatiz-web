@@ -1,0 +1,15 @@
+<ol class="charlas-list">
+  {% for charla in site.data.charlas.recientes %}
+  <li>
+    <p class="charlas-when">{{ charla.fecha }}{% if charla.lugar %} · {{ charla.lugar }}{% endif %}</p>
+    <h3>
+      <a href="{{ charla.url }}" target="_blank" rel="noopener noreferrer">
+        {{ charla.evento }}
+        <span class="charlas-sr">, post en LinkedIn</span>
+        <i data-lucide="arrow-up-right" aria-hidden="true"></i>
+      </a>
+    </h3>
+    <p class="charlas-tema">{{ charla.tema }}</p>
+  </li>
+  {% endfor %}
+</ol>

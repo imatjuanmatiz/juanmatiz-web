@@ -161,6 +161,20 @@ canonical: "https://juanmatiz.com/"
   </div>
 </section>
 
+<section class="section section-alt" id="conferencias">
+  <div class="wrapper">
+    <div class="section-header">
+      <h2>Conferencias</h2>
+      <p class="subtitle">De la sala de clase al congreso, en logística, datos e inteligencia artificial.</p>
+    </div>
+    {% include charlas-cifra.html %}
+    {% include charlas-barras.html %}
+    <p class="charlas-more">
+      <a class="btn btn-primary" href="/conferencias/#trayectoria">Ver fechas, temas y fotos</a>
+    </p>
+  </div>
+</section>
+
 <!-- CURRENT PROJECTS -->
 <section class="section">
   <div class="wrapper">
