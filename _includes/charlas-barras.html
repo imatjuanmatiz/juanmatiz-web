@@ -1,0 +1,19 @@
+<div class="charlas-ventana">
+  <h3>Últimos dos años</h3>
+  <p>{{ site.data.charlas.ventana }}: <strong>{{ site.data.charlas.recientes.size }}</strong> charlas.</p>
+  <ul class="charlas-bars">
+    {% for grupo in site.data.charlas.grupos %}
+      {% assign del_grupo = site.data.charlas.recientes | where: "grupo", grupo.id %}
+      {% assign pct = del_grupo.size | times: 100 | divided_by: site.data.charlas.recientes.size %}
+      <li>
+        <div class="charlas-bar-top">
+          <span>{{ grupo.nombre }}</span>
+          <span>{{ del_grupo.size }}</span>
+        </div>
+        <div class="charlas-track" aria-hidden="true">
+          <span style="width: {{ pct }}%"></span>
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

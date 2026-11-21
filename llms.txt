@@ -8,7 +8,7 @@ Juan Pablo Matiz (alias Juan Matiz) es docente, investigador aplicado y consulto
 
 - [Inicio](https://juanmatiz.com/): Portada. El título y el H1 lo presentan como conferencista de IA aplicada a logística y transporte, fundador de ATIEMPPO, con base en Bogotá.
 - [Sobre mí](https://juanmatiz.com/sobre-mi/): Biografía, trayectoria y trabajo actual en Bogotá y América Latina.
-- [Conferencias](https://juanmatiz.com/conferencias/): Conferencias, paneles, moderación y talleres de IA aplicada a logística y transporte. La página indica que no hay fechas próximas confirmadas.
+- [Conferencias](https://juanmatiz.com/conferencias/): Conferencias, paneles, moderación y talleres de IA aplicada a logística y transporte. +35 charlas, talleres y clases en logística, datos e IA desde 2016. La página lista las 11 de noviembre de 2024 a noviembre de 2026, con fecha, lugar o virtual, tema y enlace al post, más una galería. No hay fechas próximas confirmadas.
 - [Proyectos](https://juanmatiz.com/proyectos/): Trabajo actual en ATIEMPPO y trayectoria de consultoría e investigación.
 - [CV](https://juanmatiz.com/cv/): Currículum, experiencia, formación y docencia en la Universidad CESA, la Universidad del Rosario y la Universidad Sergio Arboleda.
 - [Blog](https://juanmatiz.com/blog/): Hub de escritura de este sitio. La escritura activa está en El Dato Logístico y en el blog de ATIEMPPO.
